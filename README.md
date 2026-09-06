@@ -1,3 +1,4 @@
+You need the Feel package to use this project. You can buy it here: https://assetstore.unity.com/packages/tools/particles-effects/feel-183370
 Best played in full-screen mode
 (We recommend viewing the How To Play in-game)
 
