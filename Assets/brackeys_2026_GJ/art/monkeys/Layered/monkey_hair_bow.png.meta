@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: f9c0b981d60341288f993cadec7c6d44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 378196357672544420
+    second: monkey_hair_bow_0
+  - first:
+      213: -223096726950260921
+    second: monkey_hair_bow_1
+  - first:
+      213: 5921139715760525748
+    second: monkey_hair_bow_2
+  - first:
+      213: -995358609451295131
+    second: monkey_hair_bow_3
+  - first:
+      213: 6076918815208190746
+    second: monkey_hair_bow_4
+  - first:
+      213: -2485374674859905026
+    second: monkey_hair_bow_5
+  - first:
+      213: -8174041272431142976
+    second: monkey_hair_bow_6
+  - first:
+      213: -7360803239410413310
+    second: monkey_hair_bow_7
+  - first:
+      213: -8330452327294294962
+    second: monkey_hair_bow_8
+  - first:
+      213: -1100242302765924768
+    second: monkey_hair_bow_9
+  - first:
+      213: -2612785460134050600
+    second: monkey_hair_bow_10
+  - first:
+      213: 124891797569464548
+    second: monkey_hair_bow_11
+  - first:
+      213: -5017209195122595036
+    second: monkey_hair_bow_12
+  - first:
+      213: 4149011503250685092
+    second: monkey_hair_bow_13
+  - first:
+      213: 3952852570807042635
+    second: monkey_hair_bow_14
+  - first:
+      213: 2651836296891887313
+    second: monkey_hair_bow_15
+  - first:
+      213: -7423904521750869807
+    second: monkey_hair_bow_16
+  - first:
+      213: 7461545513735188620
+    second: monkey_hair_bow_17
+  - first:
+      213: 2592820386846583541
+    second: monkey_hair_bow_18
+  - first:
+      213: 8151797977464428889
+    second: monkey_hair_bow_19
+  - first:
+      213: -126795317074052213
+    second: monkey_hair_bow_20
+  - first:
+      213: 3890829614147597018
+    second: monkey_hair_bow_21
+  - first:
+      213: -7722607953180045144
+    second: monkey_hair_bow_22
+  - first:
+      213: -5997024068316908942
+    second: monkey_hair_bow_23
+  - first:
+      213: 26463150154122351
+    second: monkey_hair_bow_24
+  - first:
+      213: 2285796863355357628
+    second: monkey_hair_bow_25
+  - first:
+      213: 7289442953599943008
+    second: monkey_hair_bow_26
+  - first:
+      213: 8892931683561958696
+    second: monkey_hair_bow_27
+  - first:
+      213: 8330040865048353151
+    second: monkey_hair_bow_28
+  - first:
+      213: -106307757750633282
+    second: monkey_hair_bow_29
+  - first:
+      213: 5605686190174055884
+    second: monkey_hair_bow_30
+  - first:
+      213: 7061251276823941774
+    second: monkey_hair_bow_31
+  - first:
+      213: -3592220899941555807
+    second: monkey_hair_bow_32
+  - first:
+      213: 8861175307619435315
+    second: monkey_hair_bow_33
+  - first:
+      213: -5765320572668649863
+    second: monkey_hair_bow_34
+  - first:
+      213: -1963554654695608124
+    second: monkey_hair_bow_35
+  - first:
+      213: 219242880671747992
+    second: monkey_hair_bow_36
+  - first:
+      213: -8802548637221465299
+    second: monkey_hair_bow_37
+  - first:
+      213: -8154386578376890196
+    second: monkey_hair_bow_38
+  - first:
+      213: 6401127235844025077
+    second: monkey_hair_bow_39
+  - first:
+      213: 101320995204144695
+    second: monkey_hair_bow_40
+  - first:
+      213: -6455991090139260818
+    second: monkey_hair_bow_41
+  - first:
+      213: -674665381279198200
+    second: monkey_hair_bow_42
+  - first:
+      213: 8653579754549458422
+    second: monkey_hair_bow_43
+  - first:
+      213: -2205793681573158618
+    second: monkey_hair_bow_44
+  - first:
+      213: 7577003489334805604
+    second: monkey_hair_bow_45
+  - first:
+      213: 1283543302168552828
+    second: monkey_hair_bow_46
+  - first:
+      213: -5201874041212375491
+    second: monkey_hair_bow_47
+  - first:
+      213: -965208240940563716
+    second: monkey_hair_bow_48
+  - first:
+      213: -3541106946192086090
+    second: monkey_hair_bow_49
+  - first:
+      213: -5049439341141050704
+    second: monkey_hair_bow_50
+  - first:
+      213: 3720369666012245395
+    second: monkey_hair_bow_51
+  - first:
+      213: -4337227918390033228
+    second: monkey_hair_bow_52
+  - first:
+      213: -3674647088598101709
+    second: monkey_hair_bow_53
+  - first:
+      213: -3008953929298286765
+    second: monkey_hair_bow_54
+  - first:
+      213: -1381628524779007331
+    second: monkey_hair_bow_55
+  - first:
+      213: 3140262219811220950
+    second: monkey_hair_bow_56
+  - first:
+      213: -4311712717052263025
+    second: monkey_hair_bow_57
+  - first:
+      213: 4343629348718312140
+    second: monkey_hair_bow_58
+  - first:
+      213: 8579059341893699162
+    second: monkey_hair_bow_59
+  - first:
+      213: -2672421921974954383
+    second: monkey_hair_bow_60
+  - first:
+      213: 7102778607463465072
+    second: monkey_hair_bow_61
+  - first:
+      213: 6490612529808193793
+    second: monkey_hair_bow_62
+  - first:
+      213: -7340576516788424340
+    second: monkey_hair_bow_63
+  - first:
+      213: -442317418762851566
+    second: monkey_hair_bow_64
+  - first:
+      213: -4319430929896125733
+    second: monkey_hair_bow_65
+  - first:
+      213: 1883400676898643673
+    second: monkey_hair_bow_66
+  - first:
+      213: 8702505217827332295
+    second: monkey_hair_bow_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 192
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monkey_hair_bow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a82b62659f9f3500800000000000000
+      internalID: 378196357672544420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fc39775b667ecf0800000000000000
+      internalID: -223096726950260921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b11d5f233d1c2250800000000000000
+      internalID: 5921139715760525748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e578b4e96cf22f0800000000000000
+      internalID: -995358609451295131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a133f5d277d855450800000000000000
+      internalID: 6076918815208190746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff293bb6ec228dd0800000000000000
+      internalID: -2485374674859905026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c71c5945c8ff8e80800000000000000
+      internalID: -8174041272431142976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201d565f37c29d990800000000000000
+      internalID: -7360803239410413310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e442c45beb9446c80800000000000000
+      internalID: -8330452327294294962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e77c874772bb0f0800000000000000
+      internalID: -1100242302765924768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4876697758dbbd0800000000000000
+      internalID: -2612785460134050600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8ec7d9d64bbb100800000000000000
+      internalID: 124891797569464548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42be4e0c1da4f5ab0800000000000000
+      internalID: -5017209195122595036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac3444daff349930800000000000000
+      internalID: 4149011503250685092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b428174587a5bd630800000000000000
+      internalID: 3952852570807042635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de6abedf073dc420800000000000000
+      internalID: 2651836296891887313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_16
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d88f96cb2ef8f890800000000000000
+      internalID: -7423904521750869807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_17
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80789d9c1cbc8760800000000000000
+      internalID: 7461545513735188620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faa16c876c8bf320800000000000000
+      internalID: 2592820386846583541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_19
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959d3870211012170800000000000000
+      internalID: 8151797977464428889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b3e96b4588d3ef0800000000000000
+      internalID: -126795317074052213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad276d86be00ff530800000000000000
+      internalID: 3890829614147597018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0d8139bf8c3d490800000000000000
+      internalID: -7722607953180045144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272b08a226a46cca0800000000000000
+      internalID: -5997024068316908942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64039848140e5000800000000000000
+      internalID: 26463150154122351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb98ff4f228c8bf10800000000000000
+      internalID: 2285796863355357628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0618cc3cebd492560800000000000000
+      internalID: 7289442953599943008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_27
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82de68adf3a0a6b70800000000000000
+      internalID: 8892931683561958696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79d1b548004a9370800000000000000
+      internalID: 8330040865048353151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_29
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcb76658a1568ef0800000000000000
+      internalID: -106307757750633282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd23a7c3e56bcd40800000000000000
+      internalID: 5605686190174055884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e825dd8cf9a9ef160800000000000000
+      internalID: 7061251276823941774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1ef38bf1ed52ec0800000000000000
+      internalID: -3592220899941555807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3338e176ef739fa70800000000000000
+      internalID: 8861175307619435315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e55d13c777dffa0800000000000000
+      internalID: -5765320572668649863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0bdc5e17d00c4e0800000000000000
+      internalID: -1963554654695608124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_36
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f09f50d38ea0300800000000000000
+      internalID: 219242880671747992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_37
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23d05007a017d580800000000000000
+      internalID: -8802548637221465299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8e1aa5c9cc5de80800000000000000
+      internalID: -8154386578376890196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_39
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faaf8e6e4f55d850800000000000000
+      internalID: 6401127235844025077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e9e6788e6f76100800000000000000
+      internalID: 101320995204144695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68992f0f46b766a0800000000000000
+      internalID: -6455991090139260818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8049996096b13a6f0800000000000000
+      internalID: -674665381279198200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5be6920f0b71870800000000000000
+      internalID: 8653579754549458422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621e70a55527361e0800000000000000
+      internalID: -2205793681573158618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_45
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46442b3678ce62960800000000000000
+      internalID: 7577003489334805604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_46
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75a69335df00d110800000000000000
+      internalID: 1283543302168552828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_47
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ee537ce1b3fc7b0800000000000000
+      internalID: -5201874041212375491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf245700834ea92f0800000000000000
+      internalID: -965208240940563716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_49
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb6d887ef57bdec0800000000000000
+      internalID: -3541106946192086090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bab76c1ca9cce9b0800000000000000
+      internalID: -5049439341141050704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d6cc7ff7861a330800000000000000
+      internalID: 3720369666012245395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4847610321fc3c0800000000000000
+      internalID: -4337227918390033228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331df2921f7010dc0800000000000000
+      internalID: -3674647088598101709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357e8aae75c0e36d0800000000000000
+      internalID: -3008953929298286765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_55
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9210094d2873dce0800000000000000
+      internalID: -1381628524779007331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_56
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd6d61e9d3749b20800000000000000
+      internalID: 3140262219811220950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_57
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85c096d028b924c0800000000000000
+      internalID: -4311712717052263025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_58
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaf05e01eba74c30800000000000000
+      internalID: 4343629348718312140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_59
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5602948401fe0770800000000000000
+      internalID: 8579059341893699162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17657bacb66a9ead0800000000000000
+      internalID: -2672421921974954383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0708a18e283229260800000000000000
+      internalID: 7102778607463465072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109bae505b9431a50800000000000000
+      internalID: 6490612529808193793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_63
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61704ecc88012a90800000000000000
+      internalID: -7340576516788424340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_64
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b2ca0b6a29cd9f0800000000000000
+      internalID: -442317418762851566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_65
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdac4bf547c4e04c0800000000000000
+      internalID: -4319430929896125733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_66
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de164cdfee232a10800000000000000
+      internalID: 1883400676898643673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair_bow_67
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0e494436285c870800000000000000
+      internalID: 8702505217827332295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 496ee1a8492fd1a4492923d7c8ad4845
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      monkey_hair_bow_0: 378196357672544420
+      monkey_hair_bow_1: -223096726950260921
+      monkey_hair_bow_10: -2612785460134050600
+      monkey_hair_bow_11: 124891797569464548
+      monkey_hair_bow_12: -5017209195122595036
+      monkey_hair_bow_13: 4149011503250685092
+      monkey_hair_bow_14: 3952852570807042635
+      monkey_hair_bow_15: 2651836296891887313
+      monkey_hair_bow_16: -7423904521750869807
+      monkey_hair_bow_17: 7461545513735188620
+      monkey_hair_bow_18: 2592820386846583541
+      monkey_hair_bow_19: 8151797977464428889
+      monkey_hair_bow_2: 5921139715760525748
+      monkey_hair_bow_20: -126795317074052213
+      monkey_hair_bow_21: 3890829614147597018
+      monkey_hair_bow_22: -7722607953180045144
+      monkey_hair_bow_23: -5997024068316908942
+      monkey_hair_bow_24: 26463150154122351
+      monkey_hair_bow_25: 2285796863355357628
+      monkey_hair_bow_26: 7289442953599943008
+      monkey_hair_bow_27: 8892931683561958696
+      monkey_hair_bow_28: 8330040865048353151
+      monkey_hair_bow_29: -106307757750633282
+      monkey_hair_bow_3: -995358609451295131
+      monkey_hair_bow_30: 5605686190174055884
+      monkey_hair_bow_31: 7061251276823941774
+      monkey_hair_bow_32: -3592220899941555807
+      monkey_hair_bow_33: 8861175307619435315
+      monkey_hair_bow_34: -5765320572668649863
+      monkey_hair_bow_35: -1963554654695608124
+      monkey_hair_bow_36: 219242880671747992
+      monkey_hair_bow_37: -8802548637221465299
+      monkey_hair_bow_38: -8154386578376890196
+      monkey_hair_bow_39: 6401127235844025077
+      monkey_hair_bow_4: 6076918815208190746
+      monkey_hair_bow_40: 101320995204144695
+      monkey_hair_bow_41: -6455991090139260818
+      monkey_hair_bow_42: -674665381279198200
+      monkey_hair_bow_43: 8653579754549458422
+      monkey_hair_bow_44: -2205793681573158618
+      monkey_hair_bow_45: 7577003489334805604
+      monkey_hair_bow_46: 1283543302168552828
+      monkey_hair_bow_47: -5201874041212375491
+      monkey_hair_bow_48: -965208240940563716
+      monkey_hair_bow_49: -3541106946192086090
+      monkey_hair_bow_5: -2485374674859905026
+      monkey_hair_bow_50: -5049439341141050704
+      monkey_hair_bow_51: 3720369666012245395
+      monkey_hair_bow_52: -4337227918390033228
+      monkey_hair_bow_53: -3674647088598101709
+      monkey_hair_bow_54: -3008953929298286765
+      monkey_hair_bow_55: -1381628524779007331
+      monkey_hair_bow_56: 3140262219811220950
+      monkey_hair_bow_57: -4311712717052263025
+      monkey_hair_bow_58: 4343629348718312140
+      monkey_hair_bow_59: 8579059341893699162
+      monkey_hair_bow_6: -8174041272431142976
+      monkey_hair_bow_60: -2672421921974954383
+      monkey_hair_bow_61: 7102778607463465072
+      monkey_hair_bow_62: 6490612529808193793
+      monkey_hair_bow_63: -7340576516788424340
+      monkey_hair_bow_64: -442317418762851566
+      monkey_hair_bow_65: -4319430929896125733
+      monkey_hair_bow_66: 1883400676898643673
+      monkey_hair_bow_67: 8702505217827332295
+      monkey_hair_bow_7: -7360803239410413310
+      monkey_hair_bow_8: -8330452327294294962
+      monkey_hair_bow_9: -1100242302765924768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

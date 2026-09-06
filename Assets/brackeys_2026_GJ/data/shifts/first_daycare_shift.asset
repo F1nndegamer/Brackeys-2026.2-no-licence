@@ -1,0 +1,530 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3820a889af54473ab2fe3ae78629eb1, type: 3}
+  m_Name: first_daycare_shift
+  m_EditorClassIdentifier: Assembly-CSharp::EnclosureShiftDefinition
+  shiftTitle: TRUST NO MONKEY
+  briefing: Keep the monkeys fed, calm and clean. Catch each culprit to grow your
+    daycare. One wrong accusation ends the run.
+  startingMonkeyCount: 6
+  firstIncidentTimeSeconds: 30
+  incidentIntervalSeconds: 40
+  lineupSize: 4
+  guessesPerIncident: 1
+  incidentWindowSeconds: 5
+  feedCooldownSeconds: 1
+  fullHungerHoldSeconds: 20
+  timeoutDurationSeconds: 30
+  justifiedTimeoutNaughtiness: 2
+  justifiedTimeoutTrustPenalty: 10
+  unfairTimeoutTrustPenalty: 30
+  maxMonkeysInTimeOut: 2
+  recentTroubleWindowSeconds: 10
+  baseNaughtinessPerSecond: 0.05
+  populationPressurePerExtraMonkey: 0.12
+  solvedIncidentTrustPenalty: 3
+  solvedIncidentNaughtinessBoost: 5
+  monkeysAddedPerSolvedIncident: 2
+  postZoolagWaveSeconds: 3
+  randomizeSeedEachRun: 1
+  fixedSeed: 1729
+  incidentPool:
+  - type: 0
+    alertTitle: AUX CORD MISSING
+    description: The aux cord has been stolen. The enclosure music cuts out.
+    objectName: aux cord
+    effectDescription: "MUSIC OFFLINE \u2014 the daycare has gone quiet."
+    blocksCameraEvidence: 0
+    incidentSprite: {fileID: 21300000, guid: 0ee19acb68fc3e22c82a5cc4c3d20621, type: 3}
+    incidentOffsetMinimum: {x: 0, y: 0}
+    incidentOffsetMaximum: {x: 0, y: 0}
+  - type: 1
+    alertTitle: GENERATOR UNPLUGGED
+    description: Somebody unplugged the generator. The enclosure lights go out.
+    objectName: generator plug
+    effectDescription: "LIGHTS OUT \u2014 the feeds are now much harder to read."
+    blocksCameraEvidence: 1
+    incidentSprite: {fileID: 21300000, guid: a318f9b29d5726e47b0ff02899bb3251, type: 3}
+    incidentOffsetMinimum: {x: 0, y: 0}
+    incidentOffsetMaximum: {x: 0, y: 0}
+  - type: 2
+    alertTitle: SURVEILLANCE CONSOLE TAMPERED WITH
+    description: A monkey has messed with the surveillance console.
+    objectName: surveillance console
+    effectDescription: "CAMERA INTERFERENCE \u2014 the feed jitters and no recording
+      was saved."
+    blocksCameraEvidence: 1
+    incidentSprite: {fileID: 21300000, guid: 1ed4b618ad2caf80bb5412dc2104b41b, type: 3}
+    incidentOffsetMinimum: {x: 0, y: 0}
+    incidentOffsetMaximum: {x: 0, y: 0}
+  - type: 3
+    alertTitle: BANANA STASH RAIDED
+    description: Somebody raided the banana stash.
+    objectName: banana stash
+    effectDescription: "FOOD LOW \u2014 the remaining monkeys will become more restless."
+    blocksCameraEvidence: 0
+    incidentSprite: {fileID: 21300000, guid: ba2aca09cd317f097aaa31d1b2373ab5, type: 3}
+    incidentOffsetMinimum: {x: 0, y: 0}
+    incidentOffsetMaximum: {x: 0, y: 0}
+  - type: 5
+    alertTitle: BIG MESS DISCOVERED
+    description: Somebody left an enormous mess in the enclosure.
+    objectName: giant mess
+    effectDescription: "BIG MESS \u2014 this room needs cleaning."
+    blocksCameraEvidence: 0
+    incidentSprite: {fileID: 21300000, guid: 525fad2ba084ea5ef9ba1443ac976c4a, type: 3}
+    incidentOffsetMinimum: {x: 0, y: 0}
+    incidentOffsetMaximum: {x: 0, y: 0}
+  zones:
+  - zoneId: banana_grove
+    displayName: Banana Grove
+    center: {x: -5, y: 2}
+    size: {x: 4.5, y: 3}
+    placeholderColor: {r: 0.35, g: 0.8, b: 0.25, a: 1}
+  - zoneId: north_trail
+    displayName: North Trail
+    center: {x: 0, y: 4}
+    size: {x: 4.5, y: 3}
+    placeholderColor: {r: 0.25, g: 0.55, b: 0.8, a: 1}
+  - zoneId: fruit_stash
+    displayName: Fruit Stash
+    center: {x: 4.5, y: 1}
+    size: {x: 4.5, y: 3}
+    placeholderColor: {r: 0.9, g: 0.38, b: 0.25, a: 1}
+  - zoneId: south_clearing
+    displayName: South Clearing
+    center: {x: 0, y: -3}
+    size: {x: 4.5, y: 3}
+    placeholderColor: {r: 0.85, g: 0.75, b: 0.25, a: 1}
+  hallway:
+  - points:
+    - {x: 2.25, y: 4}
+    - {x: 4.5, y: 4}
+    - {x: 4.5, y: 2.5}
+    width: 1
+    placeholderColor: {r: 0, g: 0, b: 0, a: 0}
+  - points:
+    - {x: 5, y: -0.5}
+    - {x: 5, y: -3}
+    - {x: 2.25, y: -3}
+    width: 1
+    placeholderColor: {r: 0, g: 0, b: 0, a: 0}
+  - points:
+    - {x: -2.25, y: -3}
+    - {x: -5, y: -3}
+    - {x: -5, y: 0.5}
+    width: 1
+    placeholderColor: {r: 0, g: 0, b: 0, a: 0}
+  - points:
+    - {x: -5, y: 3.5}
+    - {x: -5, y: 4.5}
+    - {x: -2.25, y: 4.5}
+    width: 1
+    placeholderColor: {r: 0, g: 0, b: 0, a: 0}
+  - points:
+    - {x: 2.25, y: 1}
+    - {x: -2.75, y: 1}
+    width: 1
+    placeholderColor: {r: 0, g: 0, b: 0, a: 0}
+  - points:
+    - {x: 0, y: 2.5}
+    - {x: 0, y: -1.5}
+    width: 1
+    placeholderColor: {r: 0, g: 0, b: 0, a: 0}
+  monkeyProfiles:
+  - monkeyId: rockstar
+    displayName: Rockstar
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    disposition: 0
+    accessory: 3
+    displayColor: {r: 0.8867924, g: 0.31967428, b: 0.23843002, a: 1}
+    startingZoneId: banana_grove
+    startingHunger: 62
+    startingAnger: 40
+    startingTrust: 0
+    startingNaughtiness: 40
+    movementSpeed: 2.4
+  - monkeyId: rango
+    displayName: Rango
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    disposition: 3
+    accessory: 1
+    displayColor: {r: 0.12041653, g: 0.51615864, b: 0.7735849, a: 1}
+    startingZoneId: north_trail
+    startingHunger: 36
+    startingAnger: 18
+    startingTrust: 50
+    startingNaughtiness: 18
+    movementSpeed: 1.8
+  - monkeyId: mossy
+    displayName: Mossy
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    disposition: 2
+    accessory: 2
+    displayColor: {r: 0.12406549, g: 0.6415094, b: 0.33006874, a: 1}
+    startingZoneId: banana_grove
+    startingHunger: 44
+    startingAnger: 24
+    startingTrust: 75
+    startingNaughtiness: 24
+    movementSpeed: 2
+  - monkeyId: pearl
+    displayName: Pearl
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    disposition: 4
+    accessory: 8
+    displayColor: {r: 0.7735849, g: 0.7735849, b: 0.48531505, a: 1}
+    startingZoneId: fruit_stash
+    startingHunger: 25
+    startingAnger: 12
+    startingTrust: 90
+    startingNaughtiness: 12
+    movementSpeed: 2.1
+  - monkeyId: crane
+    displayName: Crane
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    disposition: 1
+    accessory: 0
+    displayColor: {r: 0.26980242, g: 0.4056604, b: 0.3501406, a: 1}
+    startingZoneId: south_clearing
+    startingHunger: 52
+    startingAnger: 68
+    startingTrust: 0
+    startingNaughtiness: 68
+    movementSpeed: 2.5
+  - monkeyId: sweetie
+    displayName: Sweetie
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    disposition: 5
+    accessory: 9
+    displayColor: {r: 0.9150943, g: 0.7023857, b: 0.17697577, a: 1}
+    startingZoneId: north_trail
+    startingHunger: 58
+    startingAnger: 32
+    startingTrust: 90
+    startingNaughtiness: 32
+    movementSpeed: 1.55
+  - monkeyId: pickles
+    displayName: Pickles
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    disposition: 4
+    accessory: 6
+    displayColor: {r: 0.95, g: 0.49, b: 0.18, a: 1}
+    startingZoneId: fruit_stash
+    startingHunger: 42
+    startingAnger: 24
+    startingTrust: 65
+    startingNaughtiness: 30
+    movementSpeed: 2.1
+  - monkeyId: noodle
+    displayName: Noodle
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    disposition: 3
+    accessory: 4
+    displayColor: {r: 0.46, g: 0.34, b: 0.85, a: 1}
+    startingZoneId: north_trail
+    startingHunger: 38
+    startingAnger: 16
+    startingTrust: 80
+    startingNaughtiness: 18
+    movementSpeed: 1.8
+  - monkeyId: bing_bong
+    displayName: Bing Bong
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    disposition: 0
+    accessory: 6
+    displayColor: {r: 0.18, g: 0.77, b: 0.7, a: 1}
+    startingZoneId: banana_grove
+    startingHunger: 58
+    startingAnger: 35
+    startingTrust: 35
+    startingNaughtiness: 48
+    movementSpeed: 2.3
+  - monkeyId: wobble
+    displayName: Wobble
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    disposition: 2
+    accessory: 5
+    displayColor: {r: 0.91, g: 0.4, b: 0.66, a: 1}
+    startingZoneId: south_clearing
+    startingHunger: 47
+    startingAnger: 28
+    startingTrust: 70
+    startingNaughtiness: 24
+    movementSpeed: 2
+  - monkeyId: crumbs
+    displayName: Crumbs
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    disposition: 1
+    accessory: 10
+    displayColor: {r: 0.48, g: 0.79, b: 0.26, a: 1}
+    startingZoneId: banana_grove
+    startingHunger: 64
+    startingAnger: 52
+    startingTrust: 15
+    startingNaughtiness: 62
+    movementSpeed: 2.45
+  - monkeyId: carport
+    displayName: Carport
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    disposition: 5
+    accessory: 7
+    displayColor: {r: 0.76, g: 0.49, b: 1, a: 1}
+    startingZoneId: north_trail
+    startingHunger: 30
+    startingAnger: 12
+    startingTrust: 90
+    startingNaughtiness: 14
+    movementSpeed: 1.65
+  fallbackNewcomerNames:
+  - Tater
+  - Crankle
+  - Ziggy
+  - Pogo
+  - Smudge
+  - Pippy
+  - Flippy
+  - Crinkle
+  - Jarrod
+  - Isaac
+  - Andrew
+  - Jaloppy
+  - Bangles
+  - Mr Chud
+  - England
+  - Lance
+  - Piggy
+  - Cash
+  - King
+  - Big Zozza
+  - Wrongo
+  - Faul
+  - Lulu
+  - Kai
+  - Elena
+  - Plumber
+  - Taargus
+  - Toad
+  - Dunstan
+  - Turtle
+  - Napoli
+  - Abernathy
+  - The President
+  - Honky
+  - Goku
+  - Scrunch
+  - Crunch
+  - Missingno
+  - Crabapple
+  - Crowbar
+  - Smokey
+  - Queen
+  - Television
+  - Jesus
+  - Swish
+  - Victoria
+  - Booger
+  - Scallop
+  - Friend
+  - Blinky
+  - Dracula
+  - Winch
+  - Hammer
+  - Spanner
+  - Jaws
+  - Jewel
+  - Grent
+  - Brunt
+  - Winkle
+  - Sprinkle
+  - Tinky
+  - Sawtooth
+  - Andy
+  - Trash
+  - Oola
+  - Plastic
+  - Crimp
+  - Dragon
+  - Termite
+  - Betrayer
+  - Vapor
+  - Hewell
+  - Onion Jr
+  - Monster
+  - Grum
+  - Doc
+  - Phone
+  - Teddy
+  - George
+  - Crevice
+  - Klomp
+  - Mop
+  - Thud
+  - Blister
+  - Bangle
+  - Rayon
+  - Sidewinder
+  - Viper
+  - Ligament
+  - Diamond
+  - Xavier
+  - Dog
+  - Slate
+  - Linoleum
+  - Spirit
+  - Moonlight
+  - Gog
+  - Bandy
+  - Electron
+  - Power
+  - Rider
+  - Kitty
+  - Apples
+  - Plonk
+  - Tree
+  - Dried
+  - Sultanas
+  - Nutmeg Powder
+  - Commander
+  - Cinnamon Stick
+  - Referee
+  - Chief
+  - Lizard
+  - Snowstorm
+  - Thunder
+  - Door
+  - Subway
+  - Shovel
+  - Clubber
+  - Fang
+  - Drummer
+  - Kool
+  - Zardos
+  - Image
+  - Dingo
+  - Umberto
+  - Angeliki
+  - Alexandros
+  - Dream
+  - Lobo
+  - Wolf
+  - Chomper
+  - Wreckage
+  - Disco
+  - Stone
+  - Emperor
+  - Jawbone
+  - Lichen
+  - Ice Cream
+  - Three
+  - Pollen
+  - Hog
+  - Funk
+  - Corduroy
+  - Handle
+  - Scalp
+  - Blimp
+  - Bonsai
+  - Mrs. Mug
+  - Mushroom
+  - Mango
+  - Lantern
+  - Claw
+  - Scold
+  - Sock
+  - Kelp
+  - Ice
+  - Nero
+  - Bulk
+  - Freak
+  - Jelly
+  - Battery
+  - Limpet
+  - Clam
+  - Log
+  - Stump
+  - Stonefish
+  - Teef
+  - Bindo
+  - Metal
+  - Junk
+  - Riot
+  - Krazz
+  - Fuzz
+  - Block
+  - Brick
+  - Lump
+  - Cramp
+  - Craggy
+  - Crog
+  - Pinch
+  - Fringe
+  - Quail
+  - Gizmo
+  - Dunny
+  - Diaper
+  - Traitor
+  - Backstabber
+  - Snitch
+  - Liar
+  - Fibber
+  - Enemy
+  - Faker
+  - Kog
+  - Hippo
+  - Falsey
+  - Fallacy
+  - Fiction
+  - Non-Fiction
+  - Rascal
+  - Imp
+  - Drip
+  - Sandal
+  - Aliem
+  - Crackles
+  - Snake
+  - Gogo
+  - Momo
+  - Dodo
+  - Mimi
+  - Ribs
+  - Boss
+  - Big Boy
+  - Little Boy
+  - Valentine
+  - Grencho
+  - Rangle
+  - Pinto Bean
+  - Choo Choo
+  - Ringle
+  newcomerHexColors:
+  - '#E23939'
+  - '#D45D25'
+  - '#E0971B'
+  - '#78B117'
+  - '#2B7A1F'
+  - '#1AA95A'
+  - '#18939A'
+  - '#114195'
+  - '#2E2078'
+  - '#60248D'
+  - '#4D1783'
+  - '#5D205A'
+  - '#6B183C'
+  - '#692828'
+  - '#6F6071'
+  - '#829289'
+  - '#0B4E20'
+  - '#CFCFA6'
+  - '#CFA6C3'
+  - '#0B4E20'
+  - '#005B49'

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b89cebd54c1460f84535407e0c4b6c6, type: 3}
+  m_Name: New Monkey Lineup Art Set
+  m_EditorClassIdentifier: Assembly-CSharp::MonkeyLineupArtSet
+  idle: {fileID: 0}
+  pointUp: {fileID: 0}
+  pointUpRight: {fileID: 0}
+  pointRight: {fileID: 0}
+  pointDownRight: {fileID: 0}
+  pointDown: {fileID: 0}

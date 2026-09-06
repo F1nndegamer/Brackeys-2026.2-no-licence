@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d6283d49b094e7bba4e4cb61d1656fa, type: 3}
+  m_Name: Item_RotBanana
+  m_EditorClassIdentifier:
+  kind: 3
+  displayName: Rotten Banana
+  sprite: {fileID: -2097492682085603266, guid: ee8b07da8bcc9704a8a05d4f9630fc50, type: 3}
+  sortingOrder: 5
+  hungerDelta: -20
+  angerDelta: 8
+  snackDurationSeconds: 3
+  rotAfterSeconds: 0
+  rotsInto: {fileID: 0}

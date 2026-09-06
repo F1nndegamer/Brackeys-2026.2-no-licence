@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 295" role="img" aria-labelledby="title desc">
+  <title id="title">Aspire</title>
+  <desc id="desc">Aspire wordmark with the Curious Spire mascot</desc>
+
+  <g fill="none" stroke="#34271b" stroke-linecap="round" stroke-linejoin="round">
+    <g>
+      <path
+        d="M33 36 C34 52 35 69 37 84 C33 103 33 125 34 152 C35 182 34 219 31 253 C42 257 54 258 64 253 C66 218 64 181 63 151 C62 127 62 110 64 96 C59 77 48 55 33 36 Z"
+        fill="#8c8f42"
+        stroke-width="6"
+      />
+      <path d="M42 255 L42 279 L27 279" stroke-width="6" />
+      <path d="M58 255 L58 279 L75 279" stroke-width="6" />
+      <circle cx="50" cy="97" r="21" fill="#f7e8c3" stroke-width="6" />
+      <circle cx="50" cy="97" r="6.5" fill="#34271b" stroke="none" />
+      <path d="M33 12 L33 42" stroke-width="6" />
+      <path d="M18 22 L48 31" stroke-width="6" />
+      <path d="M19 35 L48 19" stroke-width="6" />
+    </g>
+
+    <g stroke-width="15.5" transform="translate(-28 0)">
+      <path d="M178 124 C194 108 219 105 230 119 C237 128 237 145 237 158" />
+      <path d="M237 154 C221 149 202 153 190 164 C178 175 178 192 188 201 C199 211 216 209 228 200 C236 194 239 184 239 172" />
+      <path d="M237 119 C237 143 237 171 239 191 C240 201 243 207 249 211" />
+      <path transform="translate(10 0)" d="M308 111 C296 101 278 103 269 115 C259 129 267 142 281 151 L297 161 C311 170 313 187 303 199 C292 212 272 210 261 198" />
+      <path transform="translate(10 0)" d="M335 121 L336 235" />
+      <path transform="translate(10 0)" d="M337 132 C350 115 371 110 386 120 C403 130 407 153 399 172 C391 190 369 199 338 194" />
+      <path transform="translate(10 0)" d="M434 126 L434 201" />
+      <circle transform="translate(10 0)" cx="434" cy="94" r="10" fill="#34271b" stroke="none" />
+      <path transform="translate(10 0)" d="M470 126 L470 201" />
+      <path transform="translate(10 0)" d="M470 144 C481 121 499 114 513 126" />
+      <path transform="translate(10 0)" d="M568 189 C558 203 535 207 522 194 C507 179 510 153 520 136 C531 117 553 111 566 125 C574 134 573 148 570 158 L518 162" />
+    </g>
+  </g>
+</svg>

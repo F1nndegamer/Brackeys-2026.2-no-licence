@@ -1,0 +1,2582 @@
+fileFormatVersion: 2
+guid: 6b7e94f32c94a4e43bbbf15290ab8cb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4614246354653767255
+    second: monkey_shine_0
+  - first:
+      213: -8960727426629484456
+    second: monkey_shine_1
+  - first:
+      213: 8574921328380115579
+    second: monkey_shine_2
+  - first:
+      213: -2807889901266412210
+    second: monkey_shine_3
+  - first:
+      213: 8156251167086551107
+    second: monkey_shine_4
+  - first:
+      213: 3826152966710388025
+    second: monkey_shine_5
+  - first:
+      213: -9025103595751948595
+    second: monkey_shine_6
+  - first:
+      213: 5013479961389815537
+    second: monkey_shine_7
+  - first:
+      213: -7355788687811290318
+    second: monkey_shine_8
+  - first:
+      213: 6194932561363198715
+    second: monkey_shine_9
+  - first:
+      213: -765874650824890158
+    second: monkey_shine_10
+  - first:
+      213: -4683066532301781683
+    second: monkey_shine_11
+  - first:
+      213: 3376423621762025121
+    second: monkey_shine_12
+  - first:
+      213: -4157656457814189461
+    second: monkey_shine_13
+  - first:
+      213: -8865286639135923366
+    second: monkey_shine_14
+  - first:
+      213: 862254117603050567
+    second: monkey_shine_15
+  - first:
+      213: 6555282271993279253
+    second: monkey_shine_16
+  - first:
+      213: -4001076768927735583
+    second: monkey_shine_17
+  - first:
+      213: 1350546040733300603
+    second: monkey_shine_18
+  - first:
+      213: -6119371557262582164
+    second: monkey_shine_19
+  - first:
+      213: -3992250479416847866
+    second: monkey_shine_20
+  - first:
+      213: 4860242405331492218
+    second: monkey_shine_21
+  - first:
+      213: 86812191317710342
+    second: monkey_shine_22
+  - first:
+      213: 5027164533305737665
+    second: monkey_shine_23
+  - first:
+      213: -5679389311665640941
+    second: monkey_shine_24
+  - first:
+      213: -2432951672462095157
+    second: monkey_shine_25
+  - first:
+      213: -5324207480625434377
+    second: monkey_shine_26
+  - first:
+      213: 7299987554593792443
+    second: monkey_shine_27
+  - first:
+      213: 4626010656354877719
+    second: monkey_shine_28
+  - first:
+      213: -5527616904197798081
+    second: monkey_shine_29
+  - first:
+      213: 4958102298936110289
+    second: monkey_shine_30
+  - first:
+      213: 5411842865071556389
+    second: monkey_shine_31
+  - first:
+      213: -4988772205294601617
+    second: monkey_shine_32
+  - first:
+      213: 4526390158692950660
+    second: monkey_shine_33
+  - first:
+      213: 3612370287057095892
+    second: monkey_shine_34
+  - first:
+      213: -4558899038454413896
+    second: monkey_shine_35
+  - first:
+      213: 2581152261439869534
+    second: monkey_shine_36
+  - first:
+      213: -4897659535174140107
+    second: monkey_shine_37
+  - first:
+      213: 5081302889081141420
+    second: monkey_shine_38
+  - first:
+      213: 2332748701607242324
+    second: monkey_shine_39
+  - first:
+      213: -5462762907294646247
+    second: monkey_shine_40
+  - first:
+      213: 1985326516188274404
+    second: monkey_shine_41
+  - first:
+      213: 2888997703725094706
+    second: monkey_shine_42
+  - first:
+      213: -7984848841645933327
+    second: monkey_shine_43
+  - first:
+      213: 361893010235869557
+    second: monkey_shine_44
+  - first:
+      213: 2626101498610904178
+    second: monkey_shine_45
+  - first:
+      213: 1506229765856900303
+    second: monkey_shine_46
+  - first:
+      213: 1669556014518981408
+    second: monkey_shine_47
+  - first:
+      213: 8332570776625285139
+    second: monkey_shine_48
+  - first:
+      213: 2008963881669738234
+    second: monkey_shine_49
+  - first:
+      213: -2098910813535028461
+    second: monkey_shine_50
+  - first:
+      213: 3842836816395023061
+    second: monkey_shine_51
+  - first:
+      213: 3490724360419885069
+    second: monkey_shine_52
+  - first:
+      213: 5840670217742331502
+    second: monkey_shine_53
+  - first:
+      213: -3915772686622012187
+    second: monkey_shine_54
+  - first:
+      213: -2795521430252227801
+    second: monkey_shine_55
+  - first:
+      213: -6780324981176465114
+    second: monkey_shine_56
+  - first:
+      213: 318881987695837374
+    second: monkey_shine_57
+  - first:
+      213: -8145814657678672433
+    second: monkey_shine_58
+  - first:
+      213: 9178831969134147945
+    second: monkey_shine_59
+  - first:
+      213: 7050315997855322190
+    second: monkey_shine_60
+  - first:
+      213: 5923354569691137806
+    second: monkey_shine_61
+  - first:
+      213: -1607756477934601814
+    second: monkey_shine_62
+  - first:
+      213: -2463913448865868232
+    second: monkey_shine_63
+  - first:
+      213: 9098915369287055790
+    second: monkey_shine_64
+  - first:
+      213: 5519716164826280129
+    second: monkey_shine_65
+  - first:
+      213: -1069254357064946204
+    second: monkey_shine_66
+  - first:
+      213: 3212630278156195000
+    second: monkey_shine_67
+  - first:
+      213: 5129157690440351667
+    second: monkey_shine_68
+  - first:
+      213: -2949843421924833596
+    second: monkey_shine_69
+  - first:
+      213: -2879450833818483050
+    second: monkey_shine_70
+  - first:
+      213: 4524929266576076019
+    second: monkey_shine_71
+  - first:
+      213: -4884271758634063910
+    second: monkey_shine_72
+  - first:
+      213: 2537824938819754378
+    second: monkey_shine_73
+  - first:
+      213: -454542276187166424
+    second: monkey_shine_74
+  - first:
+      213: -3683900776679068765
+    second: monkey_shine_75
+  - first:
+      213: 8387988239189886740
+    second: monkey_shine_76
+  - first:
+      213: -5881343864925253573
+    second: monkey_shine_77
+  - first:
+      213: 266386345026463018
+    second: monkey_shine_78
+  - first:
+      213: 9035255787330298642
+    second: monkey_shine_79
+  - first:
+      213: 499472138516767101
+    second: monkey_shine_80
+  - first:
+      213: -8885938289169197412
+    second: monkey_shine_81
+  - first:
+      213: -2267497763590543588
+    second: monkey_shine_82
+  - first:
+      213: -6095866654743199087
+    second: monkey_shine_83
+  - first:
+      213: 981124485708003747
+    second: monkey_shine_84
+  - first:
+      213: 1435145561661295046
+    second: monkey_shine_85
+  - first:
+      213: 7841060192875937250
+    second: monkey_shine_86
+  - first:
+      213: 3024685638674280297
+    second: monkey_shine_87
+  - first:
+      213: 4961517804574903190
+    second: monkey_shine_88
+  - first:
+      213: 6260215799162755226
+    second: monkey_shine_89
+  - first:
+      213: 7410062599245544347
+    second: monkey_shine_90
+  - first:
+      213: 5433450839232630804
+    second: monkey_shine_91
+  - first:
+      213: 6184917898478702592
+    second: monkey_shine_92
+  - first:
+      213: 6072394378445622550
+    second: monkey_shine_93
+  - first:
+      213: 4377320273112621988
+    second: monkey_shine_94
+  - first:
+      213: -3913247013404588574
+    second: monkey_shine_95
+  - first:
+      213: -4012192882661945489
+    second: monkey_shine_96
+  - first:
+      213: 2548831860438489645
+    second: monkey_shine_97
+  - first:
+      213: 4730187512461336429
+    second: monkey_shine_98
+  - first:
+      213: 9128899802928379324
+    second: monkey_shine_99
+  - first:
+      213: 1319364961398458921
+    second: monkey_shine_100
+  - first:
+      213: -7333138025996726244
+    second: monkey_shine_101
+  - first:
+      213: 552019606532327439
+    second: monkey_shine_102
+  - first:
+      213: -505025102860699304
+    second: monkey_shine_103
+  - first:
+      213: 2575492935885258336
+    second: monkey_shine_104
+  - first:
+      213: 8006005328699596447
+    second: monkey_shine_105
+  - first:
+      213: -6757256924545475857
+    second: monkey_shine_106
+  - first:
+      213: -6626385386535302892
+    second: monkey_shine_107
+  - first:
+      213: -613785398714092576
+    second: monkey_shine_108
+  - first:
+      213: 3191291030223662849
+    second: monkey_shine_109
+  - first:
+      213: 6163736603983811208
+    second: monkey_shine_110
+  - first:
+      213: -7304787828839445824
+    second: monkey_shine_111
+  - first:
+      213: 6727272734837119826
+    second: monkey_shine_112
+  - first:
+      213: -5668046644031440599
+    second: monkey_shine_113
+  - first:
+      213: -6935926298522458305
+    second: monkey_shine_114
+  - first:
+      213: 2821838091483804839
+    second: monkey_shine_115
+  - first:
+      213: 3355707112378089763
+    second: monkey_shine_116
+  - first:
+      213: -7796878305861332270
+    second: monkey_shine_117
+  - first:
+      213: 3541490925231585960
+    second: monkey_shine_118
+  - first:
+      213: -8228947591589673527
+    second: monkey_shine_119
+  - first:
+      213: -284601917055517607
+    second: monkey_shine_120
+  - first:
+      213: -5540065125996996768
+    second: monkey_shine_121
+  - first:
+      213: 4818336123392215900
+    second: monkey_shine_122
+  - first:
+      213: -6395047229238312571
+    second: monkey_shine_123
+  - first:
+      213: 2587138525844391342
+    second: monkey_shine_124
+  - first:
+      213: 5009219847639443349
+    second: monkey_shine_125
+  - first:
+      213: -6114937926987352661
+    second: monkey_shine_126
+  - first:
+      213: -477855327649601149
+    second: monkey_shine_127
+  - first:
+      213: 2866490043779952015
+    second: monkey_shine_128
+  - first:
+      213: 2675330416242737547
+    second: monkey_shine_129
+  - first:
+      213: -984272479021636932
+    second: monkey_shine_130
+  - first:
+      213: 1230775746023045708
+    second: monkey_shine_131
+  - first:
+      213: 4212654780116524276
+    second: monkey_shine_132
+  - first:
+      213: -2070941481970560126
+    second: monkey_shine_133
+  - first:
+      213: -2056688390136957149
+    second: monkey_shine_134
+  - first:
+      213: 2287666111948595357
+    second: monkey_shine_135
+  - first:
+      213: 4867137370671052786
+    second: monkey_shine_136
+  - first:
+      213: -4777930273529949845
+    second: monkey_shine_137
+  - first:
+      213: -1005467186810641279
+    second: monkey_shine_138
+  - first:
+      213: 6265725052107225344
+    second: monkey_shine_139
+  - first:
+      213: 845018084009926436
+    second: monkey_shine_140
+  - first:
+      213: 9048692516542290607
+    second: monkey_shine_141
+  - first:
+      213: -4727995397497976544
+    second: monkey_shine_142
+  - first:
+      213: 7039969800420117436
+    second: monkey_shine_143
+  - first:
+      213: -1441519980397715232
+    second: monkey_shine_144
+  - first:
+      213: 5217529245677287051
+    second: monkey_shine_145
+  - first:
+      213: -1736790467047666757
+    second: monkey_shine_146
+  - first:
+      213: 6110145910449148635
+    second: monkey_shine_147
+  - first:
+      213: 4112888921837870408
+    second: monkey_shine_148
+  - first:
+      213: -2253167565467341514
+    second: monkey_shine_149
+  - first:
+      213: 3298935752663866128
+    second: monkey_shine_150
+  - first:
+      213: 690885292342009258
+    second: monkey_shine_151
+  - first:
+      213: -4031182572278744876
+    second: monkey_shine_152
+  - first:
+      213: 5976237904535164136
+    second: monkey_shine_153
+  - first:
+      213: -8981142693061210562
+    second: monkey_shine_154
+  - first:
+      213: 1778243821552529361
+    second: monkey_shine_155
+  - first:
+      213: -7120891186402585346
+    second: monkey_shine_156
+  - first:
+      213: 2469988616520279407
+    second: monkey_shine_157
+  - first:
+      213: 35865204496148819
+    second: monkey_shine_158
+  - first:
+      213: 8230812488780844832
+    second: monkey_shine_159
+  - first:
+      213: 2835941986008596923
+    second: monkey_shine_160
+  - first:
+      213: 5749505521660693025
+    second: monkey_shine_161
+  - first:
+      213: -7758568338508343286
+    second: monkey_shine_162
+  - first:
+      213: 8069445643768222456
+    second: monkey_shine_163
+  - first:
+      213: 8532428435438367138
+    second: monkey_shine_164
+  - first:
+      213: 5997159746459578453
+    second: monkey_shine_165
+  - first:
+      213: -7991196401290457380
+    second: monkey_shine_166
+  - first:
+      213: 5082723796399267313
+    second: monkey_shine_167
+  - first:
+      213: -6990503704531515018
+    second: monkey_shine_168
+  - first:
+      213: 5565875443077372137
+    second: monkey_shine_169
+  - first:
+      213: 4542841179048430925
+    second: monkey_shine_170
+  - first:
+      213: 2306580377598368821
+    second: monkey_shine_171
+  - first:
+      213: 2124471888962457099
+    second: monkey_shine_172
+  - first:
+      213: 679112423741531955
+    second: monkey_shine_173
+  - first:
+      213: 9043105621829077114
+    second: monkey_shine_174
+  - first:
+      213: -752190623828371846
+    second: monkey_shine_175
+  - first:
+      213: 3192860938954001985
+    second: monkey_shine_176
+  - first:
+      213: -7003580610189226454
+    second: monkey_shine_177
+  - first:
+      213: 2713946201670296065
+    second: monkey_shine_178
+  - first:
+      213: 7685708850825425317
+    second: monkey_shine_179
+  - first:
+      213: -2961390273615974102
+    second: monkey_shine_180
+  - first:
+      213: -5198858653181254694
+    second: monkey_shine_181
+  - first:
+      213: 5391437621616358879
+    second: monkey_shine_182
+  - first:
+      213: -5166139459103331527
+    second: monkey_shine_183
+  - first:
+      213: 358823584928493697
+    second: monkey_shine_184
+  - first:
+      213: 8313934889492042040
+    second: monkey_shine_185
+  - first:
+      213: 5680190335415203621
+    second: monkey_shine_186
+  - first:
+      213: -4269900218671681705
+    second: monkey_shine_187
+  - first:
+      213: -7316727977761079375
+    second: monkey_shine_188
+  - first:
+      213: 2697783975666728191
+    second: monkey_shine_189
+  - first:
+      213: -2905106446518190624
+    second: monkey_shine_190
+  - first:
+      213: 7134301643135821005
+    second: monkey_shine_191
+  - first:
+      213: -8503126765340558026
+    second: monkey_shine_192
+  - first:
+      213: -797562431028086306
+    second: monkey_shine_193
+  - first:
+      213: -8977327938153392632
+    second: monkey_shine_194
+  - first:
+      213: -7647455180325082886
+    second: monkey_shine_195
+  - first:
+      213: -2269010208409726362
+    second: monkey_shine_196
+  - first:
+      213: -6464799469324164920
+    second: monkey_shine_197
+  - first:
+      213: 6540081531625742750
+    second: monkey_shine_198
+  - first:
+      213: 7975821989751741578
+    second: monkey_shine_199
+  - first:
+      213: -2627073338148908402
+    second: monkey_shine_200
+  - first:
+      213: 7629783616739871606
+    second: monkey_shine_201
+  - first:
+      213: 6686240759540044690
+    second: monkey_shine_202
+  - first:
+      213: -6671140216237374810
+    second: monkey_shine_203
+  - first:
+      213: 298406260244648923
+    second: monkey_shine_204
+  - first:
+      213: 1855714228753822309
+    second: monkey_shine_205
+  - first:
+      213: 5103691104996003551
+    second: monkey_shine_206
+  - first:
+      213: 4670876874958052462
+    second: monkey_shine_207
+  - first:
+      213: 8306639840790553525
+    second: monkey_shine_208
+  - first:
+      213: -505755214440593932
+    second: monkey_shine_209
+  - first:
+      213: 8066753260372590492
+    second: monkey_shine_210
+  - first:
+      213: -7100573846630547686
+    second: monkey_shine_211
+  - first:
+      213: 674550947845446640
+    second: monkey_shine_212
+  - first:
+      213: -9153015876762725385
+    second: monkey_shine_213
+  - first:
+      213: 4432088499316509101
+    second: monkey_shine_214
+  - first:
+      213: 2028009377722781180
+    second: monkey_shine_215
+  - first:
+      213: -1049505012933135874
+    second: monkey_shine_216
+  - first:
+      213: -2189335506536051945
+    second: monkey_shine_217
+  - first:
+      213: 5371925040511124658
+    second: monkey_shine_218
+  - first:
+      213: -5043884005079906198
+    second: monkey_shine_219
+  - first:
+      213: 390386761393210990
+    second: monkey_shine_220
+  - first:
+      213: 7719885410934093705
+    second: monkey_shine_221
+  - first:
+      213: 5631698909328138215
+    second: monkey_shine_222
+  - first:
+      213: 4458297706360957227
+    second: monkey_shine_223
+  - first:
+      213: -2853151146266172169
+    second: monkey_shine_224
+  - first:
+      213: 7855466291771957099
+    second: monkey_shine_225
+  - first:
+      213: 7386167209527988114
+    second: monkey_shine_226
+  - first:
+      213: 3625156526071041641
+    second: monkey_shine_227
+  - first:
+      213: 9035327442734950981
+    second: monkey_shine_228
+  - first:
+      213: -6736806772242086486
+    second: monkey_shine_229
+  - first:
+      213: 1147891307615804849
+    second: monkey_shine_230
+  - first:
+      213: -8755963892275162869
+    second: monkey_shine_231
+  - first:
+      213: 3086499822530543091
+    second: monkey_shine_232
+  - first:
+      213: -8327720561561668520
+    second: monkey_shine_233
+  - first:
+      213: 5982892703235443077
+    second: monkey_shine_234
+  - first:
+      213: 8383756272519562210
+    second: monkey_shine_235
+  - first:
+      213: 3434103555428099526
+    second: monkey_shine_236
+  - first:
+      213: -8956319157552450004
+    second: monkey_shine_237
+  - first:
+      213: 6502943706470627236
+    second: monkey_shine_238
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 192
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monkey_shine_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756674bbc98190040800000000000000
+      internalID: 4614246354653767255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85046a6a1e915a380800000000000000
+      internalID: -8960727426629484456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a740b248d300770800000000000000
+      internalID: 8574921328380115579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ddb9af20f5809d0800000000000000
+      internalID: -2807889901266412210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3402f090933d03170800000000000000
+      internalID: 8156251167086551107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9356415f9d9391530800000000000000
+      internalID: 3826152966710388025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceba12c81460c280800000000000000
+      internalID: -9025103595751948595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6dd2b5675739540800000000000000
+      internalID: 5013479961389815537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bdb2c392dfae990800000000000000
+      internalID: -7355788687811290318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2ed87a752d8f550800000000000000
+      internalID: 6194932561363198715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d82b1710111f55f0800000000000000
+      internalID: -765874650824890158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45c1a20dc7620fb0800000000000000
+      internalID: -4683066532301781683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a60d5a15677bde20800000000000000
+      internalID: 3376423621762025121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a50e5da790d46c0800000000000000
+      internalID: -4157656457814189461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a536942a5cc28f480800000000000000
+      internalID: -8865286639135923366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74409d13d8757fb00800000000000000
+      internalID: 862254117603050567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_16
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5133398be7a09fa50800000000000000
+      internalID: 6555282271993279253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_17
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0aef490e15978c0800000000000000
+      internalID: -4001076768927735583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77f7b2f77a1eb210800000000000000
+      internalID: 1350546040733300603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_19
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e1cb09dff931ba0800000000000000
+      internalID: -6119371557262582164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602d9ff375da898c0800000000000000
+      internalID: -3992250479416847866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dd21c87bc037340800000000000000
+      internalID: 4860242405331492218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6065aa16a3b643100800000000000000
+      internalID: 86812191317710342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1812b028314c540800000000000000
+      internalID: 5027164533305737665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ae4010381ce21b0800000000000000
+      internalID: -5679389311665640941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc443f185b6c3ed0800000000000000
+      internalID: -2432951672462095157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0f7d6518d9c16b0800000000000000
+      internalID: -5324207480625434377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_27
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1e5500104ce4560800000000000000
+      internalID: 7299987554593792443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711443bae24e23040800000000000000
+      internalID: 4626010656354877719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_29
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3788d256b5f943b0800000000000000
+      internalID: -5527616904197798081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc622095c7bec440800000000000000
+      internalID: 4958102298936110289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52782d0a96aba1b40800000000000000
+      internalID: 5411842865071556389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ab2166c1254cab0800000000000000
+      internalID: -4988772205294601617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482a7b31ed7f0de30800000000000000
+      internalID: 4526390158692950660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcc63d03a7b12230800000000000000
+      internalID: 3612370287057095892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b50e068a798bb0c0800000000000000
+      internalID: -4558899038454413896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_36
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52d1566e4812d320800000000000000
+      internalID: 2581152261439869534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_37
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ff3270a94080cb0800000000000000
+      internalID: -4897659535174140107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8f8d34e0a648640800000000000000
+      internalID: 5081302889081141420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_39
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aad8da5969f5020800000000000000
+      internalID: 2332748701607242324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910c58a241e5034b0800000000000000
+      internalID: -5462762907294646247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eed090a2fb4d8b10800000000000000
+      internalID: 1985326516188274404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237147fda18c71820800000000000000
+      internalID: 2888997703725094706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc3188b84e103190800000000000000
+      internalID: -7984848841645933327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5794ec186c3b50500800000000000000
+      internalID: 361893010235869557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_45
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ce2d83669c17420800000000000000
+      internalID: 2626101498610904178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_46
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc43500edf337e410800000000000000
+      internalID: 1506229765856900303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_47
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023550a79547b2710800000000000000
+      internalID: 1669556014518981408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3180d8639fc33a370800000000000000
+      internalID: 8332570776625285139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_49
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeb385a10641eb10800000000000000
+      internalID: 2008963881669738234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bb4005cbb2fd2e0800000000000000
+      internalID: -2098910813535028461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2b40b69bf745530800000000000000
+      internalID: 3842836816395023061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0041a7af4b817030800000000000000
+      internalID: 3490724360419885069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e2cba2e9a3e0150800000000000000
+      internalID: 5840670217742331502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecc7b8fc7168a9c0800000000000000
+      internalID: -3915772686622012187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_55
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723f2db02105439d0800000000000000
+      internalID: -2795521430252227801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_56
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62905437a5277e1a0800000000000000
+      internalID: -6780324981176465114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_57
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb081e17a75ec6400800000000000000
+      internalID: 318881987695837374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_58
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd74ea2ab044fe80800000000000000
+      internalID: -8145814657678672433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_59
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9697d3d5b03c16f70800000000000000
+      internalID: 9178831969134147945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e409b6ebb01c7d160800000000000000
+      internalID: 7050315997855322190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07802d099bf33250800000000000000
+      internalID: 5923354569691137806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9ff57600a10b9e0800000000000000
+      internalID: -1607756477934601814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_63
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836da0bc5cb6ecdd0800000000000000
+      internalID: -2463913448865868232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_64
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea972bbf157d54e70800000000000000
+      internalID: 9098915369287055790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_65
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0b3717b98f99c40800000000000000
+      internalID: 5519716164826280129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_66
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edea90d3de3921f0800000000000000
+      internalID: -1069254357064946204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_shine_67
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b41a2c773e859c20800000000000000
+      internalID: 3212630278156195000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7b83ab9a4e09e9e40bc6f308109bdd25
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      monkey_shine_0: 4614246354653767255
+      monkey_shine_1: -8960727426629484456
+      monkey_shine_10: -765874650824890158
+      monkey_shine_100: 1319364961398458921
+      monkey_shine_101: -7333138025996726244
+      monkey_shine_102: 552019606532327439
+      monkey_shine_103: -505025102860699304
+      monkey_shine_104: 2575492935885258336
+      monkey_shine_105: 8006005328699596447
+      monkey_shine_106: -6757256924545475857
+      monkey_shine_107: -6626385386535302892
+      monkey_shine_108: -613785398714092576
+      monkey_shine_109: 3191291030223662849
+      monkey_shine_11: -4683066532301781683
+      monkey_shine_110: 6163736603983811208
+      monkey_shine_111: -7304787828839445824
+      monkey_shine_112: 6727272734837119826
+      monkey_shine_113: -5668046644031440599
+      monkey_shine_114: -6935926298522458305
+      monkey_shine_115: 2821838091483804839
+      monkey_shine_116: 3355707112378089763
+      monkey_shine_117: -7796878305861332270
+      monkey_shine_118: 3541490925231585960
+      monkey_shine_119: -8228947591589673527
+      monkey_shine_12: 3376423621762025121
+      monkey_shine_120: -284601917055517607
+      monkey_shine_121: -5540065125996996768
+      monkey_shine_122: 4818336123392215900
+      monkey_shine_123: -6395047229238312571
+      monkey_shine_124: 2587138525844391342
+      monkey_shine_125: 5009219847639443349
+      monkey_shine_126: -6114937926987352661
+      monkey_shine_127: -477855327649601149
+      monkey_shine_128: 2866490043779952015
+      monkey_shine_129: 2675330416242737547
+      monkey_shine_13: -4157656457814189461
+      monkey_shine_130: -984272479021636932
+      monkey_shine_131: 1230775746023045708
+      monkey_shine_132: 4212654780116524276
+      monkey_shine_133: -2070941481970560126
+      monkey_shine_134: -2056688390136957149
+      monkey_shine_135: 2287666111948595357
+      monkey_shine_136: 4867137370671052786
+      monkey_shine_137: -4777930273529949845
+      monkey_shine_138: -1005467186810641279
+      monkey_shine_139: 6265725052107225344
+      monkey_shine_14: -8865286639135923366
+      monkey_shine_140: 845018084009926436
+      monkey_shine_141: 9048692516542290607
+      monkey_shine_142: -4727995397497976544
+      monkey_shine_143: 7039969800420117436
+      monkey_shine_144: -1441519980397715232
+      monkey_shine_145: 5217529245677287051
+      monkey_shine_146: -1736790467047666757
+      monkey_shine_147: 6110145910449148635
+      monkey_shine_148: 4112888921837870408
+      monkey_shine_149: -2253167565467341514
+      monkey_shine_15: 862254117603050567
+      monkey_shine_150: 3298935752663866128
+      monkey_shine_151: 690885292342009258
+      monkey_shine_152: -4031182572278744876
+      monkey_shine_153: 5976237904535164136
+      monkey_shine_154: -8981142693061210562
+      monkey_shine_155: 1778243821552529361
+      monkey_shine_156: -7120891186402585346
+      monkey_shine_157: 2469988616520279407
+      monkey_shine_158: 35865204496148819
+      monkey_shine_159: 8230812488780844832
+      monkey_shine_16: 6555282271993279253
+      monkey_shine_160: 2835941986008596923
+      monkey_shine_161: 5749505521660693025
+      monkey_shine_162: -7758568338508343286
+      monkey_shine_163: 8069445643768222456
+      monkey_shine_164: 8532428435438367138
+      monkey_shine_165: 5997159746459578453
+      monkey_shine_166: -7991196401290457380
+      monkey_shine_167: 5082723796399267313
+      monkey_shine_168: -6990503704531515018
+      monkey_shine_169: 5565875443077372137
+      monkey_shine_17: -4001076768927735583
+      monkey_shine_170: 4542841179048430925
+      monkey_shine_171: 2306580377598368821
+      monkey_shine_172: 2124471888962457099
+      monkey_shine_173: 679112423741531955
+      monkey_shine_174: 9043105621829077114
+      monkey_shine_175: -752190623828371846
+      monkey_shine_176: 3192860938954001985
+      monkey_shine_177: -7003580610189226454
+      monkey_shine_178: 2713946201670296065
+      monkey_shine_179: 7685708850825425317
+      monkey_shine_18: 1350546040733300603
+      monkey_shine_180: -2961390273615974102
+      monkey_shine_181: -5198858653181254694
+      monkey_shine_182: 5391437621616358879
+      monkey_shine_183: -5166139459103331527
+      monkey_shine_184: 358823584928493697
+      monkey_shine_185: 8313934889492042040
+      monkey_shine_186: 5680190335415203621
+      monkey_shine_187: -4269900218671681705
+      monkey_shine_188: -7316727977761079375
+      monkey_shine_189: 2697783975666728191
+      monkey_shine_19: -6119371557262582164
+      monkey_shine_190: -2905106446518190624
+      monkey_shine_191: 7134301643135821005
+      monkey_shine_192: -8503126765340558026
+      monkey_shine_193: -797562431028086306
+      monkey_shine_194: -8977327938153392632
+      monkey_shine_195: -7647455180325082886
+      monkey_shine_196: -2269010208409726362
+      monkey_shine_197: -6464799469324164920
+      monkey_shine_198: 6540081531625742750
+      monkey_shine_199: 7975821989751741578
+      monkey_shine_2: 8574921328380115579
+      monkey_shine_20: -3992250479416847866
+      monkey_shine_200: -2627073338148908402
+      monkey_shine_201: 7629783616739871606
+      monkey_shine_202: 6686240759540044690
+      monkey_shine_203: -6671140216237374810
+      monkey_shine_204: 298406260244648923
+      monkey_shine_205: 1855714228753822309
+      monkey_shine_206: 5103691104996003551
+      monkey_shine_207: 4670876874958052462
+      monkey_shine_208: 8306639840790553525
+      monkey_shine_209: -505755214440593932
+      monkey_shine_21: 4860242405331492218
+      monkey_shine_210: 8066753260372590492
+      monkey_shine_211: -7100573846630547686
+      monkey_shine_212: 674550947845446640
+      monkey_shine_213: -9153015876762725385
+      monkey_shine_214: 4432088499316509101
+      monkey_shine_215: 2028009377722781180
+      monkey_shine_216: -1049505012933135874
+      monkey_shine_217: -2189335506536051945
+      monkey_shine_218: 5371925040511124658
+      monkey_shine_219: -5043884005079906198
+      monkey_shine_22: 86812191317710342
+      monkey_shine_220: 390386761393210990
+      monkey_shine_221: 7719885410934093705
+      monkey_shine_222: 5631698909328138215
+      monkey_shine_223: 4458297706360957227
+      monkey_shine_224: -2853151146266172169
+      monkey_shine_225: 7855466291771957099
+      monkey_shine_226: 7386167209527988114
+      monkey_shine_227: 3625156526071041641
+      monkey_shine_228: 9035327442734950981
+      monkey_shine_229: -6736806772242086486
+      monkey_shine_23: 5027164533305737665
+      monkey_shine_230: 1147891307615804849
+      monkey_shine_231: -8755963892275162869
+      monkey_shine_232: 3086499822530543091
+      monkey_shine_233: -8327720561561668520
+      monkey_shine_234: 5982892703235443077
+      monkey_shine_235: 8383756272519562210
+      monkey_shine_236: 3434103555428099526
+      monkey_shine_237: -8956319157552450004
+      monkey_shine_238: 6502943706470627236
+      monkey_shine_24: -5679389311665640941
+      monkey_shine_25: -2432951672462095157
+      monkey_shine_26: -5324207480625434377
+      monkey_shine_27: 7299987554593792443
+      monkey_shine_28: 4626010656354877719
+      monkey_shine_29: -5527616904197798081
+      monkey_shine_3: -2807889901266412210
+      monkey_shine_30: 4958102298936110289
+      monkey_shine_31: 5411842865071556389
+      monkey_shine_32: -4988772205294601617
+      monkey_shine_33: 4526390158692950660
+      monkey_shine_34: 3612370287057095892
+      monkey_shine_35: -4558899038454413896
+      monkey_shine_36: 2581152261439869534
+      monkey_shine_37: -4897659535174140107
+      monkey_shine_38: 5081302889081141420
+      monkey_shine_39: 2332748701607242324
+      monkey_shine_4: 8156251167086551107
+      monkey_shine_40: -5462762907294646247
+      monkey_shine_41: 1985326516188274404
+      monkey_shine_42: 2888997703725094706
+      monkey_shine_43: -7984848841645933327
+      monkey_shine_44: 361893010235869557
+      monkey_shine_45: 2626101498610904178
+      monkey_shine_46: 1506229765856900303
+      monkey_shine_47: 1669556014518981408
+      monkey_shine_48: 8332570776625285139
+      monkey_shine_49: 2008963881669738234
+      monkey_shine_5: 3826152966710388025
+      monkey_shine_50: -2098910813535028461
+      monkey_shine_51: 3842836816395023061
+      monkey_shine_52: 3490724360419885069
+      monkey_shine_53: 5840670217742331502
+      monkey_shine_54: -3915772686622012187
+      monkey_shine_55: -2795521430252227801
+      monkey_shine_56: -6780324981176465114
+      monkey_shine_57: 318881987695837374
+      monkey_shine_58: -8145814657678672433
+      monkey_shine_59: 9178831969134147945
+      monkey_shine_6: -9025103595751948595
+      monkey_shine_60: 7050315997855322190
+      monkey_shine_61: 5923354569691137806
+      monkey_shine_62: -1607756477934601814
+      monkey_shine_63: -2463913448865868232
+      monkey_shine_64: 9098915369287055790
+      monkey_shine_65: 5519716164826280129
+      monkey_shine_66: -1069254357064946204
+      monkey_shine_67: 3212630278156195000
+      monkey_shine_68: 5129157690440351667
+      monkey_shine_69: -2949843421924833596
+      monkey_shine_7: 5013479961389815537
+      monkey_shine_70: -2879450833818483050
+      monkey_shine_71: 4524929266576076019
+      monkey_shine_72: -4884271758634063910
+      monkey_shine_73: 2537824938819754378
+      monkey_shine_74: -454542276187166424
+      monkey_shine_75: -3683900776679068765
+      monkey_shine_76: 8387988239189886740
+      monkey_shine_77: -5881343864925253573
+      monkey_shine_78: 266386345026463018
+      monkey_shine_79: 9035255787330298642
+      monkey_shine_8: -7355788687811290318
+      monkey_shine_80: 499472138516767101
+      monkey_shine_81: -8885938289169197412
+      monkey_shine_82: -2267497763590543588
+      monkey_shine_83: -6095866654743199087
+      monkey_shine_84: 981124485708003747
+      monkey_shine_85: 1435145561661295046
+      monkey_shine_86: 7841060192875937250
+      monkey_shine_87: 3024685638674280297
+      monkey_shine_88: 4961517804574903190
+      monkey_shine_89: 6260215799162755226
+      monkey_shine_9: 6194932561363198715
+      monkey_shine_90: 7410062599245544347
+      monkey_shine_91: 5433450839232630804
+      monkey_shine_92: 6184917898478702592
+      monkey_shine_93: 6072394378445622550
+      monkey_shine_94: 4377320273112621988
+      monkey_shine_95: -3913247013404588574
+      monkey_shine_96: -4012192882661945489
+      monkey_shine_97: 2548831860438489645
+      monkey_shine_98: 4730187512461336429
+      monkey_shine_99: 9128899802928379324
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

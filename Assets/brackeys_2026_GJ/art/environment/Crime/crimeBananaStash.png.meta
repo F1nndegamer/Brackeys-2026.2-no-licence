@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: ba2aca09cd317f097aaa31d1b2373ab5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8690435795175323218
+    second: crimeBananaStash_0
+  - first:
+      213: -6431399524225738075
+    second: crimeBananaStash_1
+  - first:
+      213: 5312548402432727824
+    second: crimeBananaStash_2
+  - first:
+      213: 6682768998305203944
+    second: crimeBananaStash_3
+  - first:
+      213: 3302993612375379219
+    second: crimeBananaStash_4
+  - first:
+      213: 5107708103838618490
+    second: crimeBananaStash_5
+  - first:
+      213: 94870373839420884
+    second: crimeBananaStash_6
+  - first:
+      213: -1773422447350566914
+    second: crimeBananaStash_7
+  - first:
+      213: -2774134813507565249
+    second: crimeBananaStash_8
+  - first:
+      213: -215745366925396834
+    second: crimeBananaStash_9
+  - first:
+      213: 1405689050783323216
+    second: crimeBananaStash_10
+  - first:
+      213: 2884989524004211677
+    second: crimeBananaStash_11
+  - first:
+      213: -4289645302103737877
+    second: crimeBananaStash_12
+  - first:
+      213: 181116150523136509
+    second: crimeBananaStash_13
+  - first:
+      213: -2492254960801268740
+    second: crimeBananaStash_14
+  - first:
+      213: 2021768001407751775
+    second: crimeBananaStash_15
+  - first:
+      213: -6750978318263452376
+    second: crimeBananaStash_16
+  - first:
+      213: 7879461622834138302
+    second: crimeBananaStash_17
+  - first:
+      213: 5909532978654385213
+    second: crimeBananaStash_18
+  - first:
+      213: 7431122525404310854
+    second: crimeBananaStash_19
+  - first:
+      213: -2310991675701360157
+    second: crimeBananaStash_20
+  - first:
+      213: -4068752791855595117
+    second: crimeBananaStash_21
+  - first:
+      213: -4814554180497295359
+    second: crimeBananaStash_22
+  - first:
+      213: -9093607861766476282
+    second: crimeBananaStash_23
+  - first:
+      213: -1260969344101336294
+    second: crimeBananaStash_24
+  - first:
+      213: 8008079727334669995
+    second: crimeBananaStash_25
+  - first:
+      213: -6825761255537978745
+    second: crimeBananaStash_26
+  - first:
+      213: -2595298200004540984
+    second: crimeBananaStash_27
+  - first:
+      213: 4733046897423116435
+    second: crimeBananaStash_28
+  - first:
+      213: -7340925030416297300
+    second: crimeBananaStash_29
+  - first:
+      213: -8177700286077869194
+    second: crimeBananaStash_30
+  - first:
+      213: -3373992140740667553
+    second: crimeBananaStash_31
+  - first:
+      213: -8123973571659189802
+    second: crimeBananaStash_32
+  - first:
+      213: -1387813612990866913
+    second: crimeBananaStash_33
+  - first:
+      213: 7254212991484668766
+    second: crimeBananaStash_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crimeBananaStash_0
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 831
+        width: 110
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea94c3d20be556780800000000000000
+      internalID: -8690435795175323218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_1
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 864
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa98ed25341fb6a0800000000000000
+      internalID: -6431399524225738075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_2
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 774
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b521bff96f9b940800000000000000
+      internalID: 5312548402432727824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_3
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 773
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e689f34ff6fdbc50800000000000000
+      internalID: 6682768998305203944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_4
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 779
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dc401c03796dd20800000000000000
+      internalID: 3302993612375379219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_5
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 739
+        width: 81
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a735fa9657932e640800000000000000
+      internalID: 5107708103838618490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_6
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 678
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd38643a1c015100800000000000000
+      internalID: 94870373839420884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_7
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 634
+        width: 81
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff27fc1ea98367e0800000000000000
+      internalID: -1773422447350566914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_8
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 608
+        width: 130
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3946d9c51b4089d0800000000000000
+      internalID: -2774134813507565249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_9
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 644
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94b97a5bb4810df0800000000000000
+      internalID: -215745366925396834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_10
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 639
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05498987eb2028310800000000000000
+      internalID: 1405689050783323216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_11
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 572
+        width: 117
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb8efecfaa890820800000000000000
+      internalID: 2884989524004211677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_12
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 575
+        width: 124
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9fea3435e1874c0800000000000000
+      internalID: -4289645302103737877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_13
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 591
+        width: 149
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df98407ed24738200800000000000000
+      internalID: 181116150523136509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_14
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 564
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb3cb3515bb96dd0800000000000000
+      internalID: -2492254960801268740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_15
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 560
+        width: 109
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5619261943ce0c10800000000000000
+      internalID: 2021768001407751775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 562
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dfa8ddcf4bf42a0800000000000000
+      internalID: -6750978318263452376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_17
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 572
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc0a5a4998795d60800000000000000
+      internalID: 7879461622834138302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_18
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 560
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34962d1fe0e20250800000000000000
+      internalID: 5909532978654385213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_19
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 529
+        width: 135
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64da029a096a02760800000000000000
+      internalID: 7431122525404310854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_20
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 500
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e98feaa055bdefd0800000000000000
+      internalID: -2310991675701360157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_21
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 507
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391819a94e2e887c0800000000000000
+      internalID: -4068752791855595117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_22
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 522
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108369f3b744f2db0800000000000000
+      internalID: -4814554180497295359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_23
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 526
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ea5b864d30dc180800000000000000
+      internalID: -9093607861766476282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_24
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 514
+        width: 86
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bbe2cff03208ee0800000000000000
+      internalID: -1260969344101336294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_25
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 504
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae3ac8551a622f60800000000000000
+      internalID: 8008079727334669995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_26
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 520
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782d8027d460641a0800000000000000
+      internalID: -6825761255537978745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_27
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 526
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5c48e9906abfbd0800000000000000
+      internalID: -2595298200004540984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_28
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 479
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3986b2293192fa140800000000000000
+      internalID: 4733046897423116435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_29
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 473
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca25347249bcf1a90800000000000000
+      internalID: -7340925030416297300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_30
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 423
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673e7b8cae8f28e80800000000000000
+      internalID: -8177700286077869194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_31
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 453
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f575130360c2d21d0800000000000000
+      internalID: -3373992140740667553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_32
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 411
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1b7984419d14f80800000000000000
+      internalID: -8123973571659189802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_33
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 410
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a5a373fde7dbce0800000000000000
+      internalID: -1387813612990866913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crimeBananaStash_34
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 401
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ba77208442ca460800000000000000
+      internalID: 7254212991484668766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      crimeBananaStash_0: -8690435795175323218
+      crimeBananaStash_1: -6431399524225738075
+      crimeBananaStash_10: 1405689050783323216
+      crimeBananaStash_11: 2884989524004211677
+      crimeBananaStash_12: -4289645302103737877
+      crimeBananaStash_13: 181116150523136509
+      crimeBananaStash_14: -2492254960801268740
+      crimeBananaStash_15: 2021768001407751775
+      crimeBananaStash_16: -6750978318263452376
+      crimeBananaStash_17: 7879461622834138302
+      crimeBananaStash_18: 5909532978654385213
+      crimeBananaStash_19: 7431122525404310854
+      crimeBananaStash_2: 5312548402432727824
+      crimeBananaStash_20: -2310991675701360157
+      crimeBananaStash_21: -4068752791855595117
+      crimeBananaStash_22: -4814554180497295359
+      crimeBananaStash_23: -9093607861766476282
+      crimeBananaStash_24: -1260969344101336294
+      crimeBananaStash_25: 8008079727334669995
+      crimeBananaStash_26: -6825761255537978745
+      crimeBananaStash_27: -2595298200004540984
+      crimeBananaStash_28: 4733046897423116435
+      crimeBananaStash_29: -7340925030416297300
+      crimeBananaStash_3: 6682768998305203944
+      crimeBananaStash_30: -8177700286077869194
+      crimeBananaStash_31: -3373992140740667553
+      crimeBananaStash_32: -8123973571659189802
+      crimeBananaStash_33: -1387813612990866913
+      crimeBananaStash_34: 7254212991484668766
+      crimeBananaStash_4: 3302993612375379219
+      crimeBananaStash_5: 5107708103838618490
+      crimeBananaStash_6: 94870373839420884
+      crimeBananaStash_7: -1773422447350566914
+      crimeBananaStash_8: -2774134813507565249
+      crimeBananaStash_9: -215745366925396834
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

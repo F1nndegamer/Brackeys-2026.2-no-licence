@@ -1,0 +1,2171 @@
+fileFormatVersion: 2
+guid: 67028dfdc3ee5664fb605e00e08113fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4958429531457955994
+    second: zoolag_island0001_0
+  - first:
+      213: 8735847959994551008
+    second: zoolag_island0001_1
+  - first:
+      213: 2820380821254207464
+    second: zoolag_island0001_2
+  - first:
+      213: -6570977274373053474
+    second: zoolag_island0001_3
+  - first:
+      213: 4580049156389758423
+    second: zoolag_island0001_4
+  - first:
+      213: 5387513831936036802
+    second: zoolag_island0001_5
+  - first:
+      213: 7051207909975466014
+    second: zoolag_island0001_6
+  - first:
+      213: 8972022221085362642
+    second: zoolag_island0001_7
+  - first:
+      213: -4795136099656360045
+    second: zoolag_island0001_8
+  - first:
+      213: 3778700886083597816
+    second: zoolag_island0001_9
+  - first:
+      213: -6013292941224856298
+    second: zoolag_island0001_10
+  - first:
+      213: -5527001986190685499
+    second: zoolag_island0001_11
+  - first:
+      213: -2112981807970166644
+    second: zoolag_island0001_12
+  - first:
+      213: 7071030589683705615
+    second: zoolag_island0001_13
+  - first:
+      213: -4120528924362900402
+    second: zoolag_island0001_14
+  - first:
+      213: 2280388286259038860
+    second: zoolag_island0001_15
+  - first:
+      213: 4418522073411830762
+    second: zoolag_island0001_16
+  - first:
+      213: 2932322130899477509
+    second: zoolag_island0001_17
+  - first:
+      213: -4414541122120702300
+    second: zoolag_island0001_18
+  - first:
+      213: 8181965463450497856
+    second: zoolag_island0001_19
+  - first:
+      213: 4850834893388164215
+    second: zoolag_island0001_20
+  - first:
+      213: 5371142677733492232
+    second: zoolag_island0001_21
+  - first:
+      213: -8795272879780744056
+    second: zoolag_island0001_22
+  - first:
+      213: 6353365012943750334
+    second: zoolag_island0001_23
+  - first:
+      213: -930401134201417155
+    second: zoolag_island0001_24
+  - first:
+      213: 9218068844915832952
+    second: zoolag_island0001_25
+  - first:
+      213: 7602036166768451328
+    second: zoolag_island0001_26
+  - first:
+      213: -8868268980673726068
+    second: zoolag_island0001_27
+  - first:
+      213: 812242529709308043
+    second: zoolag_island0001_28
+  - first:
+      213: -2529814980022455246
+    second: zoolag_island0001_29
+  - first:
+      213: -7987642796466733973
+    second: zoolag_island0001_30
+  - first:
+      213: -1812546854056636267
+    second: zoolag_island0001_31
+  - first:
+      213: 1332993846839349325
+    second: zoolag_island0001_32
+  - first:
+      213: 7637144493687201367
+    second: zoolag_island0001_33
+  - first:
+      213: 6466326139558279125
+    second: zoolag_island0001_34
+  - first:
+      213: -1520807217664541228
+    second: zoolag_island0001_35
+  - first:
+      213: -700222029850475385
+    second: zoolag_island0001_36
+  - first:
+      213: -6304997236305148592
+    second: zoolag_island0001_37
+  - first:
+      213: 1439832336902012496
+    second: zoolag_island0001_38
+  - first:
+      213: 944046538056903733
+    second: zoolag_island0001_39
+  - first:
+      213: -2703115214908305191
+    second: zoolag_island0001_40
+  - first:
+      213: -3119708437080298744
+    second: zoolag_island0001_41
+  - first:
+      213: -966599444139428320
+    second: zoolag_island0001_42
+  - first:
+      213: 8095115822436435864
+    second: zoolag_island0001_43
+  - first:
+      213: 729765201299847832
+    second: zoolag_island0001_44
+  - first:
+      213: -3901697342767283817
+    second: zoolag_island0001_45
+  - first:
+      213: -4295542220452872409
+    second: zoolag_island0001_46
+  - first:
+      213: 2252490234848132095
+    second: zoolag_island0001_47
+  - first:
+      213: -7718694701001720721
+    second: zoolag_island0001_48
+  - first:
+      213: -5308239228450285518
+    second: zoolag_island0001_49
+  - first:
+      213: -1270127993361475832
+    second: zoolag_island0001_50
+  - first:
+      213: -4151079640644920041
+    second: zoolag_island0001_51
+  - first:
+      213: 6464239526934413965
+    second: zoolag_island0001_52
+  - first:
+      213: -6903125438023033383
+    second: zoolag_island0001_53
+  - first:
+      213: 8009354138715136339
+    second: zoolag_island0001_54
+  - first:
+      213: -2166166609232466778
+    second: zoolag_island0001_55
+  - first:
+      213: -2541743415113447583
+    second: zoolag_island0001_56
+  - first:
+      213: -2776333862288479859
+    second: zoolag_island0001_57
+  - first:
+      213: -2411688377726517108
+    second: zoolag_island0001_58
+  - first:
+      213: 5015341428319886296
+    second: zoolag_island0001_59
+  - first:
+      213: 7401704519599634427
+    second: zoolag_island0001_60
+  - first:
+      213: 8092803731055356537
+    second: zoolag_island0001_61
+  - first:
+      213: 1482265065168308277
+    second: zoolag_island0001_62
+  - first:
+      213: -9054692664689041423
+    second: zoolag_island0001_63
+  - first:
+      213: -2237035367497437548
+    second: zoolag_island0001_64
+  - first:
+      213: 8970858031535568431
+    second: zoolag_island0001_65
+  - first:
+      213: 6921545428377298880
+    second: zoolag_island0001_66
+  - first:
+      213: 3045417209014317304
+    second: zoolag_island0001_67
+  - first:
+      213: -2445532444506138842
+    second: zoolag_island0001_68
+  - first:
+      213: -1593796953048836402
+    second: zoolag_island0001_69
+  - first:
+      213: -3255837309462377944
+    second: zoolag_island0001_70
+  - first:
+      213: 7046444782620316679
+    second: zoolag_island0001_71
+  - first:
+      213: 4688260978413514304
+    second: zoolag_island0001_72
+  - first:
+      213: -7432844390408974261
+    second: zoolag_island0001_73
+  - first:
+      213: 289761130590156686
+    second: zoolag_island0001_74
+  - first:
+      213: -5161396399335526854
+    second: zoolag_island0001_75
+  - first:
+      213: 6561252599599030064
+    second: zoolag_island0001_76
+  - first:
+      213: -1372337027763932263
+    second: zoolag_island0001_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zoolag_island0001_0
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 829
+        width: 595
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98ab525361efc440800000000000000
+      internalID: 4958429531457955994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_1
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 778
+        width: 77
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eacb436f67fb3970800000000000000
+      internalID: 8735847959994551008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_2
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 775
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e77e26f961042720800000000000000
+      internalID: 2820380821254207464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_3
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 780
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed364d5cbf23fc4a0800000000000000
+      internalID: -6570977274373053474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_4
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 775
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5607c017a9f8f30800000000000000
+      internalID: 4580049156389758423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_5
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 766
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf0d0f294b44ca40800000000000000
+      internalID: 5387513831936036802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_6
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 760
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1023873c3cead160800000000000000
+      internalID: 7051207909975466014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_7
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 768
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d944bc9ca6038c70800000000000000
+      internalID: 8972022221085362642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_8
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 761
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f94528f11447db0800000000000000
+      internalID: -4795136099656360045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_9
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 765
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5777b7f64a07430800000000000000
+      internalID: 3778700886083597816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_10
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 757
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615bde30eed7c8ca0800000000000000
+      internalID: -6013292941224856298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_11
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 744
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cac9341af42c43b0800000000000000
+      internalID: -5527001986190685499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_12
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 756
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88531f9d3e2da2e0800000000000000
+      internalID: -2112981807970166644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_13
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 752
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07a40e7bd8512260800000000000000
+      internalID: 7071030589683705615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_14
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 743
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c70a856c0f0d6c0800000000000000
+      internalID: -4120528924362900402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_15
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 736
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a8e68701195af10800000000000000
+      internalID: 2280388286259038860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_16
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 739
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae34fe95a6eb15d30800000000000000
+      internalID: 4418522073411830762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 741
+        width: 50
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504a7432173b1b820800000000000000
+      internalID: 2932322130899477509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_18
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 745
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a624a91d366cb2c0800000000000000
+      internalID: -4414541122120702300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_19
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 744
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0433b753d3e2c8170800000000000000
+      internalID: 8181965463450497856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_20
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 738
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ca87c72a0a15340800000000000000
+      internalID: 4850834893388164215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_21
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 729
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806ce30dec12a8a40800000000000000
+      internalID: 5371142677733492232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_22
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 731
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884ba0a4ae9e0f580800000000000000
+      internalID: -8795272879780744056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_23
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 732
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb448e451dfab2850800000000000000
+      internalID: 6353365012943750334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_24
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 726
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32dd41191d8613f0800000000000000
+      internalID: -930401134201417155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_25
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 717
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878bd4866c82def70800000000000000
+      internalID: 9218068844915832952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_26
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 716
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fd7e9cd9bdf7960800000000000000
+      internalID: 7602036166768451328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 715
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89b35229549de480800000000000000
+      internalID: -8868268980673726068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_28
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 714
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88b9cef64aa54b00800000000000000
+      internalID: 812242529709308043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_29
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 725
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234bc40edaa44ecd0800000000000000
+      internalID: -2529814980022455246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_30
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 718
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c74eb6231362190800000000000000
+      internalID: -7987642796466733973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_31
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 709
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590d3315d3a88d6e0800000000000000
+      internalID: -1812546854056636267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_32
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 715
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4014a857debf7210800000000000000
+      internalID: 1332993846839349325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_33
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 707
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e5e8424769cf960800000000000000
+      internalID: 7637144493687201367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_34
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 703
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7b1362d510db950800000000000000
+      internalID: 6466326139558279125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_35
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 698
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd3143a4e105eae0800000000000000
+      internalID: -1520807217664541228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_36
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 699
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7840cd616cf4846f0800000000000000
+      internalID: -700222029850475385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_37
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 686
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055463c3b662088a0800000000000000
+      internalID: -6304997236305148592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_38
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 689
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e3a21c1ef4bf310800000000000000
+      internalID: 1439832336902012496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_39
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 677
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ca158135de91d00800000000000000
+      internalID: 944046538056903733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_40
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 633
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0df64a80b9c7ad0800000000000000
+      internalID: -2703115214908305191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_41
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 638
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b2a0594b194b4d0800000000000000
+      internalID: -3119708437080298744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_42
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 634
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026baf34de2f592f0800000000000000
+      internalID: -966599444139428320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_43
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 626
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897c7f363f0a75070800000000000000
+      internalID: 8095115822436435864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 620
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a3be88595a02a00800000000000000
+      internalID: 729765201299847832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_45
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 625
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791454750f26ad9c0800000000000000
+      internalID: -3901697342767283817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_46
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 621
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fb638fb1b2364c0800000000000000
+      internalID: -4295542220452872409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_47
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 606
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbb8243fe3724f10800000000000000
+      internalID: 2252490234848132095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_48
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 597
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c3a199010b1e490800000000000000
+      internalID: -7718694701001720721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_49
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 364
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2385d65cb885556b0800000000000000
+      internalID: -5308239228450285518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_50
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 346
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807d868c1599f5ee0800000000000000
+      internalID: -1270127993361475832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_51
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 262
+        width: 130
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dd0096f076466c0800000000000000
+      internalID: -4151079640644920041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_52
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 323
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8207f9c99795b950800000000000000
+      internalID: 6464239526934413965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 247
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd9caa0dfb2330a0800000000000000
+      internalID: -6903125438023033383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 257
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351ab6e5721f62f60800000000000000
+      internalID: 8009354138715136339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_55
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 275
+        width: 77
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ace26c12fa30f1e0800000000000000
+      internalID: -2166166609232466778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_56
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 243
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16789f7a4d9e9bcd0800000000000000
+      internalID: -2541743415113447583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_57
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 278
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d892868df0b7879d0800000000000000
+      internalID: -2776333862288479859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_58
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 263
+        width: 80
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c804ca8b236f78ed0800000000000000
+      internalID: -2411688377726517108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_59
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 233
+        width: 75
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db9e46e4721a9540800000000000000
+      internalID: 5015341428319886296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_60
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 230
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7b32f6b0328b660800000000000000
+      internalID: 7401704519599634427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_61
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 225
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aa28aad1a6f4070800000000000000
+      internalID: 8092803731055356537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_62
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 209
+        width: 104
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53804503930129410800000000000000
+      internalID: 1482265065168308277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_63
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 190
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffdfdacef4475280800000000000000
+      internalID: -9054692664689041423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_64
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 224
+        width: 52
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e64528f2474f0e0800000000000000
+      internalID: -2237035367497437548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_65
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 203
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26332c99d3ee7c70800000000000000
+      internalID: 8970858031535568431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_66
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 219
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7682b25e44e0060800000000000000
+      internalID: 6921545428377298880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_67
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 219
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0f828f0de734a20800000000000000
+      internalID: 3045417209014317304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_68
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 212
+        width: 132
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627d48ed239bf0ed0800000000000000
+      internalID: -2445532444506138842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_69
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 212
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec69c619d12b1e9e0800000000000000
+      internalID: -1593796953048836402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_70
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 205
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a080b9731f0d2d0800000000000000
+      internalID: -3255837309462377944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_71
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 198
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7041d7532300ac160800000000000000
+      internalID: 7046444782620316679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_72
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 190
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ea9a8358c001140800000000000000
+      internalID: 4688260978413514304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_73
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 177
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b401be6686b39d890800000000000000
+      internalID: -7432844390408974261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_74
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 180
+        width: 76
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87ba8a8630750400800000000000000
+      internalID: 289761130590156686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_75
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 167
+        width: 59
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e20a032590f58b0800000000000000
+      internalID: -5161396399335526854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_76
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 139
+        width: 135
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f55b0f9704e0b50800000000000000
+      internalID: 6561252599599030064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoolag_island0001_77
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 130
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993f3048eba74fce0800000000000000
+      internalID: -1372337027763932263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      zoolag_island0001_0: 4958429531457955994
+      zoolag_island0001_1: 8735847959994551008
+      zoolag_island0001_10: -6013292941224856298
+      zoolag_island0001_11: -5527001986190685499
+      zoolag_island0001_12: -2112981807970166644
+      zoolag_island0001_13: 7071030589683705615
+      zoolag_island0001_14: -4120528924362900402
+      zoolag_island0001_15: 2280388286259038860
+      zoolag_island0001_16: 4418522073411830762
+      zoolag_island0001_17: 2932322130899477509
+      zoolag_island0001_18: -4414541122120702300
+      zoolag_island0001_19: 8181965463450497856
+      zoolag_island0001_2: 2820380821254207464
+      zoolag_island0001_20: 4850834893388164215
+      zoolag_island0001_21: 5371142677733492232
+      zoolag_island0001_22: -8795272879780744056
+      zoolag_island0001_23: 6353365012943750334
+      zoolag_island0001_24: -930401134201417155
+      zoolag_island0001_25: 9218068844915832952
+      zoolag_island0001_26: 7602036166768451328
+      zoolag_island0001_27: -8868268980673726068
+      zoolag_island0001_28: 812242529709308043
+      zoolag_island0001_29: -2529814980022455246
+      zoolag_island0001_3: -6570977274373053474
+      zoolag_island0001_30: -7987642796466733973
+      zoolag_island0001_31: -1812546854056636267
+      zoolag_island0001_32: 1332993846839349325
+      zoolag_island0001_33: 7637144493687201367
+      zoolag_island0001_34: 6466326139558279125
+      zoolag_island0001_35: -1520807217664541228
+      zoolag_island0001_36: -700222029850475385
+      zoolag_island0001_37: -6304997236305148592
+      zoolag_island0001_38: 1439832336902012496
+      zoolag_island0001_39: 944046538056903733
+      zoolag_island0001_4: 4580049156389758423
+      zoolag_island0001_40: -2703115214908305191
+      zoolag_island0001_41: -3119708437080298744
+      zoolag_island0001_42: -966599444139428320
+      zoolag_island0001_43: 8095115822436435864
+      zoolag_island0001_44: 729765201299847832
+      zoolag_island0001_45: -3901697342767283817
+      zoolag_island0001_46: -4295542220452872409
+      zoolag_island0001_47: 2252490234848132095
+      zoolag_island0001_48: -7718694701001720721
+      zoolag_island0001_49: -5308239228450285518
+      zoolag_island0001_5: 5387513831936036802
+      zoolag_island0001_50: -1270127993361475832
+      zoolag_island0001_51: -4151079640644920041
+      zoolag_island0001_52: 6464239526934413965
+      zoolag_island0001_53: -6903125438023033383
+      zoolag_island0001_54: 8009354138715136339
+      zoolag_island0001_55: -2166166609232466778
+      zoolag_island0001_56: -2541743415113447583
+      zoolag_island0001_57: -2776333862288479859
+      zoolag_island0001_58: -2411688377726517108
+      zoolag_island0001_59: 5015341428319886296
+      zoolag_island0001_6: 7051207909975466014
+      zoolag_island0001_60: 7401704519599634427
+      zoolag_island0001_61: 8092803731055356537
+      zoolag_island0001_62: 1482265065168308277
+      zoolag_island0001_63: -9054692664689041423
+      zoolag_island0001_64: -2237035367497437548
+      zoolag_island0001_65: 8970858031535568431
+      zoolag_island0001_66: 6921545428377298880
+      zoolag_island0001_67: 3045417209014317304
+      zoolag_island0001_68: -2445532444506138842
+      zoolag_island0001_69: -1593796953048836402
+      zoolag_island0001_7: 8972022221085362642
+      zoolag_island0001_70: -3255837309462377944
+      zoolag_island0001_71: 7046444782620316679
+      zoolag_island0001_72: 4688260978413514304
+      zoolag_island0001_73: -7432844390408974261
+      zoolag_island0001_74: 289761130590156686
+      zoolag_island0001_75: -5161396399335526854
+      zoolag_island0001_76: 6561252599599030064
+      zoolag_island0001_77: -1372337027763932263
+      zoolag_island0001_8: -4795136099656360045
+      zoolag_island0001_9: 3778700886083597816
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

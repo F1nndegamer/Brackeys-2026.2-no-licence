@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d6283d49b094e7bba4e4cb61d1656fa, type: 3}
+  m_Name: Item_ManyBanana
+  m_EditorClassIdentifier:
+  kind: 1
+  displayName: Banana Stash
+  sprite: {fileID: 7727658569220879093, guid: e6757423c7475754c8a53e1e6fb14632, type: 3}
+  sortingOrder: 5
+  hungerDelta: -48
+  angerDelta: -14
+  snackDurationSeconds: 4.5
+  rotAfterSeconds: 0
+  rotsInto: {fileID: 0}

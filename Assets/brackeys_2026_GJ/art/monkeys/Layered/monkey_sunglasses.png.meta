@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: a6bea58fd4bcd9a4d98178ebbd9ce566
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5043441766230730588
+    second: monkey_sunglasses_0
+  - first:
+      213: 150680135566342925
+    second: monkey_sunglasses_1
+  - first:
+      213: 8282477069294824303
+    second: monkey_sunglasses_2
+  - first:
+      213: -3435059256281084302
+    second: monkey_sunglasses_3
+  - first:
+      213: 4357958328822481709
+    second: monkey_sunglasses_4
+  - first:
+      213: -4960502269651214065
+    second: monkey_sunglasses_5
+  - first:
+      213: 1170955715233443195
+    second: monkey_sunglasses_6
+  - first:
+      213: 1508923523254349071
+    second: monkey_sunglasses_7
+  - first:
+      213: 2928055653852322418
+    second: monkey_sunglasses_8
+  - first:
+      213: 8747851643351214396
+    second: monkey_sunglasses_9
+  - first:
+      213: -6749333731129530643
+    second: monkey_sunglasses_10
+  - first:
+      213: 811156086146961687
+    second: monkey_sunglasses_11
+  - first:
+      213: 3757967033003060105
+    second: monkey_sunglasses_12
+  - first:
+      213: -9077349091694816270
+    second: monkey_sunglasses_13
+  - first:
+      213: 8762083081024710139
+    second: monkey_sunglasses_14
+  - first:
+      213: 3697164628634138164
+    second: monkey_sunglasses_15
+  - first:
+      213: -6536263479609194819
+    second: monkey_sunglasses_16
+  - first:
+      213: 3075566100473086903
+    second: monkey_sunglasses_17
+  - first:
+      213: -561973631451427476
+    second: monkey_sunglasses_18
+  - first:
+      213: 8661964383356394130
+    second: monkey_sunglasses_19
+  - first:
+      213: -7300936039184310984
+    second: monkey_sunglasses_20
+  - first:
+      213: -711123725532906834
+    second: monkey_sunglasses_21
+  - first:
+      213: -4251315990645489620
+    second: monkey_sunglasses_22
+  - first:
+      213: -3565028656792502922
+    second: monkey_sunglasses_23
+  - first:
+      213: 5449133019776015505
+    second: monkey_sunglasses_24
+  - first:
+      213: 2920011113339332784
+    second: monkey_sunglasses_25
+  - first:
+      213: 6159794964069361907
+    second: monkey_sunglasses_26
+  - first:
+      213: -3980809860573644954
+    second: monkey_sunglasses_27
+  - first:
+      213: -8020777924509886107
+    second: monkey_sunglasses_28
+  - first:
+      213: -1024663243997479178
+    second: monkey_sunglasses_29
+  - first:
+      213: 607117885693151036
+    second: monkey_sunglasses_30
+  - first:
+      213: 6158464173979287590
+    second: monkey_sunglasses_31
+  - first:
+      213: -7222372150524023955
+    second: monkey_sunglasses_32
+  - first:
+      213: 1412635998752719179
+    second: monkey_sunglasses_33
+  - first:
+      213: 7691828122218982556
+    second: monkey_sunglasses_34
+  - first:
+      213: -8754380681956638319
+    second: monkey_sunglasses_35
+  - first:
+      213: 7613837988503345271
+    second: monkey_sunglasses_36
+  - first:
+      213: 5969805263000500084
+    second: monkey_sunglasses_37
+  - first:
+      213: 6441778811671449343
+    second: monkey_sunglasses_38
+  - first:
+      213: 5393174692804113115
+    second: monkey_sunglasses_39
+  - first:
+      213: 1797927708188314057
+    second: monkey_sunglasses_40
+  - first:
+      213: -5950490288847073023
+    second: monkey_sunglasses_41
+  - first:
+      213: -6157250378844149560
+    second: monkey_sunglasses_42
+  - first:
+      213: -200483151575195134
+    second: monkey_sunglasses_43
+  - first:
+      213: -1377073439123653544
+    second: monkey_sunglasses_44
+  - first:
+      213: -5197499391066744818
+    second: monkey_sunglasses_45
+  - first:
+      213: -9069038324362660200
+    second: monkey_sunglasses_46
+  - first:
+      213: -6783894874925604036
+    second: monkey_sunglasses_47
+  - first:
+      213: 900165652657083106
+    second: monkey_sunglasses_48
+  - first:
+      213: -1248235913989250080
+    second: monkey_sunglasses_49
+  - first:
+      213: -4381389275583117209
+    second: monkey_sunglasses_50
+  - first:
+      213: -6637083674352872694
+    second: monkey_sunglasses_51
+  - first:
+      213: 7558938752055473237
+    second: monkey_sunglasses_52
+  - first:
+      213: 189474347264631391
+    second: monkey_sunglasses_53
+  - first:
+      213: -4038739498328110505
+    second: monkey_sunglasses_54
+  - first:
+      213: 1703551316269715107
+    second: monkey_sunglasses_55
+  - first:
+      213: 4203865323951044832
+    second: monkey_sunglasses_56
+  - first:
+      213: 2122165864339611036
+    second: monkey_sunglasses_57
+  - first:
+      213: -5294914837669541289
+    second: monkey_sunglasses_58
+  - first:
+      213: 71053609397837108
+    second: monkey_sunglasses_59
+  - first:
+      213: 3111072603099434294
+    second: monkey_sunglasses_60
+  - first:
+      213: 1667905902844606595
+    second: monkey_sunglasses_61
+  - first:
+      213: -3639897566594082860
+    second: monkey_sunglasses_62
+  - first:
+      213: -5435933228195530915
+    second: monkey_sunglasses_63
+  - first:
+      213: -7353580891767044387
+    second: monkey_sunglasses_64
+  - first:
+      213: -8244683540056876687
+    second: monkey_sunglasses_65
+  - first:
+      213: -7332004117980170613
+    second: monkey_sunglasses_66
+  - first:
+      213: -7830907909861311071
+    second: monkey_sunglasses_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 192
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monkey_sunglasses_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c572d89a097edf540800000000000000
+      internalID: 5043441766230730588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bb323f8c2571200800000000000000
+      internalID: 150680135566342925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6be2a7130541f270800000000000000
+      internalID: 8282477069294824303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ec2fe5ec73450d0800000000000000
+      internalID: -3435059256281084302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d234b67b2049a7c30800000000000000
+      internalID: 4357958328822481709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01abe5b771c82bb0800000000000000
+      internalID: -4960502269651214065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7de33ed402104010800000000000000
+      internalID: 1170955715233443195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d6ec423f5c0f410800000000000000
+      internalID: 1508923523254349071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a117a8a1b82a820800000000000000
+      internalID: 2928055653852322418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3924c5b8bc966970800000000000000
+      internalID: 8747851643351214396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de666752bbc8552a0800000000000000
+      internalID: -6749333731129530643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7119f24a92ec14b00800000000000000
+      internalID: 811156086146961687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ba6cf1b1bf62430800000000000000
+      internalID: 3757967033003060105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3d05f4817c60280800000000000000
+      internalID: -9077349091694816270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf520f0832c299970800000000000000
+      internalID: 8762083081024710139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43670ed24a7fe4330800000000000000
+      internalID: 3697164628634138164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_16
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db60983fef68a45a0800000000000000
+      internalID: -6536263479609194819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_17
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b38ee5c21b9eaa20800000000000000
+      internalID: 3075566100473086903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d833ca5f77338f0800000000000000
+      internalID: -561973631451427476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_19
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a1b0fa6ba753870800000000000000
+      internalID: 8661964383356394130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d5298ba5dddaa90800000000000000
+      internalID: -7300936039184310984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa32444db49126f0800000000000000
+      internalID: -711123725532906834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2043a581aa4005c0800000000000000
+      internalID: -4251315990645489620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d7bc13359768ec0800000000000000
+      internalID: -3565028656792502922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cd9995c953f9b40800000000000000
+      internalID: 5449133019776015505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8a8cef2a6f58820800000000000000
+      internalID: 2920011113339332784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8289242ecfb7550800000000000000
+      internalID: 6159794964069361907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_27
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667b226e58251c8c0800000000000000
+      internalID: -3980809860573644954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5691b4b39f870b090800000000000000
+      internalID: -8020777924509886107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_29
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe712f553aa7c1f0800000000000000
+      internalID: -1024663243997479178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37c689108aec6800800000000000000
+      internalID: 607117885693151036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620410c8982477550800000000000000
+      internalID: 6158464173979287590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b675c7bcaf4cb90800000000000000
+      internalID: -7222372150524023955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41c596d4f0ba9310800000000000000
+      internalID: 1412635998752719179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ce8329cecdeba60800000000000000
+      internalID: 7691828122218982556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191ce670721328680800000000000000
+      internalID: -8754380681956638319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_36
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778dd1a8f49c9a960800000000000000
+      internalID: 7613837988503345271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_37
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477f66fd14209d250800000000000000
+      internalID: 5969805263000500084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe805ff2bbc56950800000000000000
+      internalID: 6441778811671449343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_39
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd237301fc768da40800000000000000
+      internalID: 5393174692804113115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9856a89b583f810800000000000000
+      internalID: 1797927708188314057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101dbddfb9c9b6da0800000000000000
+      internalID: -5950490288847073023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8ead7276d0d8aa0800000000000000
+      internalID: -6157250378844149560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202e8e6c2adb73df0800000000000000
+      internalID: -200483151575195134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cb86fc007a3ece0800000000000000
+      internalID: -1377073439123653544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_45
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08582367d5ced7b0800000000000000
+      internalID: -5197499391066744818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_46
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896b5fd91bd442280800000000000000
+      internalID: -9069038324362660200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_47
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33677acd83cad1a0800000000000000
+      internalID: -6783894874925604036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e212ad44e70e7c00800000000000000
+      internalID: 900165652657083106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_49
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e329c6bc006daee0800000000000000
+      internalID: -1248235913989250080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768892edaad2233c0800000000000000
+      internalID: -4381389275583117209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0317ad109754e3a0800000000000000
+      internalID: -6637083674352872694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554733bfebeb6e860800000000000000
+      internalID: 7558938752055473237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52e1ca3ae521a200800000000000000
+      internalID: 189474347264631391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a40dd03d383f7c0800000000000000
+      internalID: -4038739498328110505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_55
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aec7e675ea34a710800000000000000
+      internalID: 1703551316269715107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_56
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e83fa53d31275a30800000000000000
+      internalID: 4203865323951044832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_57
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d1c622c92737d10800000000000000
+      internalID: 2122165864339611036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_58
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a03c0420fa486b0800000000000000
+      internalID: -5294914837669541289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_59
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dda2c91ee6cf000800000000000000
+      internalID: 71053609397837108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d0132ac00cc2b20800000000000000
+      internalID: 3111072603099434294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38874d9e497952710800000000000000
+      internalID: 1667905902844606595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7d95cb27c7c7dc0800000000000000
+      internalID: -3639897566594082860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_63
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57b9ae978faf84b0800000000000000
+      internalID: -5435933228195530915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_64
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6002fc325d2f990800000000000000
+      internalID: -7353580891767044387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_65
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1795665a000059d80800000000000000
+      internalID: -8244683540056876687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_66
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b863710f91d7f3a90800000000000000
+      internalID: -7332004117980170613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_sunglasses_67
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad7be3feb6035390800000000000000
+      internalID: -7830907909861311071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d29792bf61026d34dab3ab58419cef66
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      monkey_sunglasses_0: 5043441766230730588
+      monkey_sunglasses_1: 150680135566342925
+      monkey_sunglasses_10: -6749333731129530643
+      monkey_sunglasses_11: 811156086146961687
+      monkey_sunglasses_12: 3757967033003060105
+      monkey_sunglasses_13: -9077349091694816270
+      monkey_sunglasses_14: 8762083081024710139
+      monkey_sunglasses_15: 3697164628634138164
+      monkey_sunglasses_16: -6536263479609194819
+      monkey_sunglasses_17: 3075566100473086903
+      monkey_sunglasses_18: -561973631451427476
+      monkey_sunglasses_19: 8661964383356394130
+      monkey_sunglasses_2: 8282477069294824303
+      monkey_sunglasses_20: -7300936039184310984
+      monkey_sunglasses_21: -711123725532906834
+      monkey_sunglasses_22: -4251315990645489620
+      monkey_sunglasses_23: -3565028656792502922
+      monkey_sunglasses_24: 5449133019776015505
+      monkey_sunglasses_25: 2920011113339332784
+      monkey_sunglasses_26: 6159794964069361907
+      monkey_sunglasses_27: -3980809860573644954
+      monkey_sunglasses_28: -8020777924509886107
+      monkey_sunglasses_29: -1024663243997479178
+      monkey_sunglasses_3: -3435059256281084302
+      monkey_sunglasses_30: 607117885693151036
+      monkey_sunglasses_31: 6158464173979287590
+      monkey_sunglasses_32: -7222372150524023955
+      monkey_sunglasses_33: 1412635998752719179
+      monkey_sunglasses_34: 7691828122218982556
+      monkey_sunglasses_35: -8754380681956638319
+      monkey_sunglasses_36: 7613837988503345271
+      monkey_sunglasses_37: 5969805263000500084
+      monkey_sunglasses_38: 6441778811671449343
+      monkey_sunglasses_39: 5393174692804113115
+      monkey_sunglasses_4: 4357958328822481709
+      monkey_sunglasses_40: 1797927708188314057
+      monkey_sunglasses_41: -5950490288847073023
+      monkey_sunglasses_42: -6157250378844149560
+      monkey_sunglasses_43: -200483151575195134
+      monkey_sunglasses_44: -1377073439123653544
+      monkey_sunglasses_45: -5197499391066744818
+      monkey_sunglasses_46: -9069038324362660200
+      monkey_sunglasses_47: -6783894874925604036
+      monkey_sunglasses_48: 900165652657083106
+      monkey_sunglasses_49: -1248235913989250080
+      monkey_sunglasses_5: -4960502269651214065
+      monkey_sunglasses_50: -4381389275583117209
+      monkey_sunglasses_51: -6637083674352872694
+      monkey_sunglasses_52: 7558938752055473237
+      monkey_sunglasses_53: 189474347264631391
+      monkey_sunglasses_54: -4038739498328110505
+      monkey_sunglasses_55: 1703551316269715107
+      monkey_sunglasses_56: 4203865323951044832
+      monkey_sunglasses_57: 2122165864339611036
+      monkey_sunglasses_58: -5294914837669541289
+      monkey_sunglasses_59: 71053609397837108
+      monkey_sunglasses_6: 1170955715233443195
+      monkey_sunglasses_60: 3111072603099434294
+      monkey_sunglasses_61: 1667905902844606595
+      monkey_sunglasses_62: -3639897566594082860
+      monkey_sunglasses_63: -5435933228195530915
+      monkey_sunglasses_64: -7353580891767044387
+      monkey_sunglasses_65: -8244683540056876687
+      monkey_sunglasses_66: -7332004117980170613
+      monkey_sunglasses_67: -7830907909861311071
+      monkey_sunglasses_7: 1508923523254349071
+      monkey_sunglasses_8: 2928055653852322418
+      monkey_sunglasses_9: 8747851643351214396
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

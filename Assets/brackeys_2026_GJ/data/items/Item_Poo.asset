@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d6283d49b094e7bba4e4cb61d1656fa, type: 3}
+  m_Name: Item_Poo
+  m_EditorClassIdentifier: 
+  kind: 2
+  displayName: Poo
+  sprite: {fileID: 7893145494882916773, guid: ae9ba1b702e89094fa8e7d3a03c0ad3b, type: 3}
+  sortingOrder: 5
+  hungerDelta: 0
+  angerDelta: -15
+  snackDurationSeconds: 1
+  rotAfterSeconds: 0
+  rotsInto: {fileID: 0}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d6283d49b094e7bba4e4cb61d1656fa, type: 3}
+  m_Name: Item_Banana
+  m_EditorClassIdentifier: 
+  kind: 0
+  displayName: Banana
+  sprite: {fileID: -9182177788924653191, guid: ebcdd7d757f12bf498a773856155ca82, type: 3}
+  sortingOrder: 5
+  hungerDelta: -48
+  angerDelta: -20
+  naughtinessDelta: -12
+  snackDurationSeconds: 5.5
+  rotAfterSeconds: 20
+  rotsInto: {fileID: 11400000, guid: fe4c4fd69c5e403396273f0310d7ca8c, type: 2}

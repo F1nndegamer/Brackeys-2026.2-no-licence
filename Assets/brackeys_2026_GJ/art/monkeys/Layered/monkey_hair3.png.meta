@@ -1,0 +1,2426 @@
+fileFormatVersion: 2
+guid: 77751ad23cd66f64cb75de3b21e2b83e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1039571416930700187
+    second: monkey_hair3_0
+  - first:
+      213: 6018612935429846134
+    second: monkey_hair3_1
+  - first:
+      213: -7119695024311784888
+    second: monkey_hair3_2
+  - first:
+      213: -3636260134674556292
+    second: monkey_hair3_3
+  - first:
+      213: -6467843446393999259
+    second: monkey_hair3_4
+  - first:
+      213: -8947020289869380852
+    second: monkey_hair3_5
+  - first:
+      213: 7414299077726873026
+    second: monkey_hair3_6
+  - first:
+      213: -2896941596756693871
+    second: monkey_hair3_7
+  - first:
+      213: 3839363695589716715
+    second: monkey_hair3_8
+  - first:
+      213: -484843004173862709
+    second: monkey_hair3_9
+  - first:
+      213: -4182807826166052469
+    second: monkey_hair3_10
+  - first:
+      213: 6078174815722518377
+    second: monkey_hair3_11
+  - first:
+      213: -8956027346617069658
+    second: monkey_hair3_12
+  - first:
+      213: -5050368344255220324
+    second: monkey_hair3_13
+  - first:
+      213: -704241312785321863
+    second: monkey_hair3_14
+  - first:
+      213: 3398978405955938204
+    second: monkey_hair3_15
+  - first:
+      213: -7047633365849909327
+    second: monkey_hair3_16
+  - first:
+      213: -9206180639315551877
+    second: monkey_hair3_17
+  - first:
+      213: 8491673455809326253
+    second: monkey_hair3_18
+  - first:
+      213: 1010844050075949835
+    second: monkey_hair3_19
+  - first:
+      213: -6075772802985991659
+    second: monkey_hair3_20
+  - first:
+      213: 1035664428311815509
+    second: monkey_hair3_21
+  - first:
+      213: -8392823919128372226
+    second: monkey_hair3_22
+  - first:
+      213: -3550643258196584928
+    second: monkey_hair3_23
+  - first:
+      213: -803257854400885794
+    second: monkey_hair3_24
+  - first:
+      213: -1802532936193120063
+    second: monkey_hair3_25
+  - first:
+      213: -7049460357567821881
+    second: monkey_hair3_26
+  - first:
+      213: 4667738679261933646
+    second: monkey_hair3_27
+  - first:
+      213: 3182889098683182398
+    second: monkey_hair3_28
+  - first:
+      213: 3256504382436292879
+    second: monkey_hair3_29
+  - first:
+      213: 2211212108461709574
+    second: monkey_hair3_30
+  - first:
+      213: 1689740082610589240
+    second: monkey_hair3_31
+  - first:
+      213: 8442213487714888554
+    second: monkey_hair3_32
+  - first:
+      213: -8972092525844736765
+    second: monkey_hair3_33
+  - first:
+      213: -3748190441457925633
+    second: monkey_hair3_34
+  - first:
+      213: -3045697283154880324
+    second: monkey_hair3_35
+  - first:
+      213: -5487383942738097071
+    second: monkey_hair3_36
+  - first:
+      213: 5311718623451210863
+    second: monkey_hair3_37
+  - first:
+      213: -4689088423185874829
+    second: monkey_hair3_38
+  - first:
+      213: -8947509144412132187
+    second: monkey_hair3_39
+  - first:
+      213: 6819017879669652910
+    second: monkey_hair3_40
+  - first:
+      213: 4682107742107680343
+    second: monkey_hair3_41
+  - first:
+      213: 6436765157786324787
+    second: monkey_hair3_42
+  - first:
+      213: 444008633339300170
+    second: monkey_hair3_43
+  - first:
+      213: -1860581031881043030
+    second: monkey_hair3_44
+  - first:
+      213: 3395809738818561059
+    second: monkey_hair3_45
+  - first:
+      213: 2758114357113011213
+    second: monkey_hair3_46
+  - first:
+      213: -735018646423150875
+    second: monkey_hair3_47
+  - first:
+      213: -505489086080538837
+    second: monkey_hair3_48
+  - first:
+      213: -4133127216110320050
+    second: monkey_hair3_49
+  - first:
+      213: 3552028920011612570
+    second: monkey_hair3_50
+  - first:
+      213: -4675850262068497233
+    second: monkey_hair3_51
+  - first:
+      213: 4087838819978672975
+    second: monkey_hair3_52
+  - first:
+      213: -5639282196631541224
+    second: monkey_hair3_53
+  - first:
+      213: 1841543601005980815
+    second: monkey_hair3_54
+  - first:
+      213: -6307771890889334072
+    second: monkey_hair3_55
+  - first:
+      213: 7746071386058782203
+    second: monkey_hair3_56
+  - first:
+      213: -1906983524503212302
+    second: monkey_hair3_57
+  - first:
+      213: -4334750775374873639
+    second: monkey_hair3_58
+  - first:
+      213: 2234592833732179056
+    second: monkey_hair3_59
+  - first:
+      213: -8202230221922182359
+    second: monkey_hair3_60
+  - first:
+      213: 6940429888672145700
+    second: monkey_hair3_61
+  - first:
+      213: 6144974265617184196
+    second: monkey_hair3_62
+  - first:
+      213: -3094855881068631823
+    second: monkey_hair3_63
+  - first:
+      213: -3202358212480600241
+    second: monkey_hair3_64
+  - first:
+      213: 5970557205491352986
+    second: monkey_hair3_65
+  - first:
+      213: -1078923467344024258
+    second: monkey_hair3_66
+  - first:
+      213: -8337376727198375206
+    second: monkey_hair3_67
+  - first:
+      213: 7318577541222234832
+    second: monkey_hair3_68
+  - first:
+      213: 7841894857087359944
+    second: monkey_hair3_69
+  - first:
+      213: 3314515192260084590
+    second: monkey_hair3_70
+  - first:
+      213: -5076248387766227122
+    second: monkey_hair3_71
+  - first:
+      213: 7226810887392033853
+    second: monkey_hair3_72
+  - first:
+      213: -2227980378672601174
+    second: monkey_hair3_73
+  - first:
+      213: -5497324400605519527
+    second: monkey_hair3_74
+  - first:
+      213: -5880547002258227890
+    second: monkey_hair3_75
+  - first:
+      213: 719883315835055252
+    second: monkey_hair3_76
+  - first:
+      213: -4978608871933686096
+    second: monkey_hair3_77
+  - first:
+      213: -7448630044232444104
+    second: monkey_hair3_78
+  - first:
+      213: -3125328643325772643
+    second: monkey_hair3_79
+  - first:
+      213: -8652500502726043750
+    second: monkey_hair3_80
+  - first:
+      213: 5195092073517432726
+    second: monkey_hair3_81
+  - first:
+      213: 4242328923425256565
+    second: monkey_hair3_82
+  - first:
+      213: -7243088245548003366
+    second: monkey_hair3_83
+  - first:
+      213: -5984860849793923774
+    second: monkey_hair3_84
+  - first:
+      213: -5434606466897726855
+    second: monkey_hair3_85
+  - first:
+      213: -4756667755991460904
+    second: monkey_hair3_86
+  - first:
+      213: 6675138328103920017
+    second: monkey_hair3_87
+  - first:
+      213: -4164762815192761772
+    second: monkey_hair3_88
+  - first:
+      213: -4537776123332738727
+    second: monkey_hair3_89
+  - first:
+      213: -6977717528718747886
+    second: monkey_hair3_90
+  - first:
+      213: -7134557234630909561
+    second: monkey_hair3_91
+  - first:
+      213: -1633296041308643150
+    second: monkey_hair3_92
+  - first:
+      213: 5463326941815184957
+    second: monkey_hair3_93
+  - first:
+      213: -5160111799763923605
+    second: monkey_hair3_94
+  - first:
+      213: -686093873877472310
+    second: monkey_hair3_95
+  - first:
+      213: -1223070163346054981
+    second: monkey_hair3_96
+  - first:
+      213: -1967055538631713382
+    second: monkey_hair3_97
+  - first:
+      213: -3805993119659899619
+    second: monkey_hair3_98
+  - first:
+      213: -1032324636020564418
+    second: monkey_hair3_99
+  - first:
+      213: 6019168872735128709
+    second: monkey_hair3_100
+  - first:
+      213: -2941257132210731735
+    second: monkey_hair3_101
+  - first:
+      213: -4705550532664370612
+    second: monkey_hair3_102
+  - first:
+      213: 6282548948418943871
+    second: monkey_hair3_103
+  - first:
+      213: 209432915211895245
+    second: monkey_hair3_104
+  - first:
+      213: -3059505288272428643
+    second: monkey_hair3_105
+  - first:
+      213: 6793353908695919495
+    second: monkey_hair3_106
+  - first:
+      213: -7160809148722210966
+    second: monkey_hair3_107
+  - first:
+      213: 7749017935851491128
+    second: monkey_hair3_108
+  - first:
+      213: 4866238880641216340
+    second: monkey_hair3_109
+  - first:
+      213: 3844753506522782751
+    second: monkey_hair3_110
+  - first:
+      213: 8678962408365626051
+    second: monkey_hair3_111
+  - first:
+      213: 5010284940562782762
+    second: monkey_hair3_112
+  - first:
+      213: 7791254663273950229
+    second: monkey_hair3_113
+  - first:
+      213: 6357526168963679139
+    second: monkey_hair3_114
+  - first:
+      213: -1103521280580826221
+    second: monkey_hair3_115
+  - first:
+      213: 8404272647186652399
+    second: monkey_hair3_116
+  - first:
+      213: 1544370068388365815
+    second: monkey_hair3_117
+  - first:
+      213: 2177021749549767049
+    second: monkey_hair3_118
+  - first:
+      213: 6232938368485992520
+    second: monkey_hair3_119
+  - first:
+      213: -6839345047040265080
+    second: monkey_hair3_120
+  - first:
+      213: 5523795160901732385
+    second: monkey_hair3_121
+  - first:
+      213: 1733121687995679792
+    second: monkey_hair3_122
+  - first:
+      213: 2818893829098274059
+    second: monkey_hair3_123
+  - first:
+      213: 5884918275807992715
+    second: monkey_hair3_124
+  - first:
+      213: -2713943727798614753
+    second: monkey_hair3_125
+  - first:
+      213: -1936866819799909247
+    second: monkey_hair3_126
+  - first:
+      213: 1707352496985751346
+    second: monkey_hair3_127
+  - first:
+      213: 3379035671086475035
+    second: monkey_hair3_128
+  - first:
+      213: 1131411005474676993
+    second: monkey_hair3_129
+  - first:
+      213: 4143115806975596330
+    second: monkey_hair3_130
+  - first:
+      213: -45813217043218083
+    second: monkey_hair3_131
+  - first:
+      213: 6871882011933979731
+    second: monkey_hair3_132
+  - first:
+      213: -2463459649803793914
+    second: monkey_hair3_133
+  - first:
+      213: 4030521931666058431
+    second: monkey_hair3_134
+  - first:
+      213: 166610206890220987
+    second: monkey_hair3_135
+  - first:
+      213: -1657611273427223036
+    second: monkey_hair3_136
+  - first:
+      213: -5940175674819559146
+    second: monkey_hair3_137
+  - first:
+      213: -9013399068137510556
+    second: monkey_hair3_138
+  - first:
+      213: -792408719778495641
+    second: monkey_hair3_139
+  - first:
+      213: 4365896223850532238
+    second: monkey_hair3_140
+  - first:
+      213: 4391564313493833107
+    second: monkey_hair3_141
+  - first:
+      213: 2611171703426961284
+    second: monkey_hair3_142
+  - first:
+      213: -3886615458821135988
+    second: monkey_hair3_143
+  - first:
+      213: -601182503514388104
+    second: monkey_hair3_144
+  - first:
+      213: -3479134569452094951
+    second: monkey_hair3_145
+  - first:
+      213: 4241853876523791978
+    second: monkey_hair3_146
+  - first:
+      213: -6579710194268144280
+    second: monkey_hair3_147
+  - first:
+      213: 3472536204613497135
+    second: monkey_hair3_148
+  - first:
+      213: 505134598696383862
+    second: monkey_hair3_149
+  - first:
+      213: 5322109246998579276
+    second: monkey_hair3_150
+  - first:
+      213: 7328052208616826429
+    second: monkey_hair3_151
+  - first:
+      213: -9213444257147566925
+    second: monkey_hair3_152
+  - first:
+      213: 4320766152722929509
+    second: monkey_hair3_153
+  - first:
+      213: -577757776625130848
+    second: monkey_hair3_154
+  - first:
+      213: 7725119835046321475
+    second: monkey_hair3_155
+  - first:
+      213: 8195006154003884413
+    second: monkey_hair3_156
+  - first:
+      213: -4367986196123274390
+    second: monkey_hair3_157
+  - first:
+      213: 4821102459099851049
+    second: monkey_hair3_158
+  - first:
+      213: 3384762044371894132
+    second: monkey_hair3_159
+  - first:
+      213: -4496929123243991177
+    second: monkey_hair3_160
+  - first:
+      213: -4570113403053559544
+    second: monkey_hair3_161
+  - first:
+      213: 1672367752534840405
+    second: monkey_hair3_162
+  - first:
+      213: 4948563453418282953
+    second: monkey_hair3_163
+  - first:
+      213: -598431969049885470
+    second: monkey_hair3_164
+  - first:
+      213: 8091208211138339741
+    second: monkey_hair3_165
+  - first:
+      213: -1787994729362145193
+    second: monkey_hair3_166
+  - first:
+      213: 3798174245122273565
+    second: monkey_hair3_167
+  - first:
+      213: -956573359505975334
+    second: monkey_hair3_168
+  - first:
+      213: -365597815310204815
+    second: monkey_hair3_169
+  - first:
+      213: 3698491075329229625
+    second: monkey_hair3_170
+  - first:
+      213: -6867395029163533738
+    second: monkey_hair3_171
+  - first:
+      213: 5614808152476264777
+    second: monkey_hair3_172
+  - first:
+      213: 2896379554029755998
+    second: monkey_hair3_173
+  - first:
+      213: -1976112817416666052
+    second: monkey_hair3_174
+  - first:
+      213: 6632133233272656539
+    second: monkey_hair3_175
+  - first:
+      213: 8979328399099753230
+    second: monkey_hair3_176
+  - first:
+      213: -5401989725454024929
+    second: monkey_hair3_177
+  - first:
+      213: -8569558901404891646
+    second: monkey_hair3_178
+  - first:
+      213: -3573299316744566000
+    second: monkey_hair3_179
+  - first:
+      213: -1061297642855594934
+    second: monkey_hair3_180
+  - first:
+      213: 964015563747955167
+    second: monkey_hair3_181
+  - first:
+      213: 1138434135683044001
+    second: monkey_hair3_182
+  - first:
+      213: 8998248635637623138
+    second: monkey_hair3_183
+  - first:
+      213: -8740848993556767492
+    second: monkey_hair3_184
+  - first:
+      213: 4556250191022386955
+    second: monkey_hair3_185
+  - first:
+      213: 7650574521414701811
+    second: monkey_hair3_186
+  - first:
+      213: 6629198983251998171
+    second: monkey_hair3_187
+  - first:
+      213: -4935751176677123214
+    second: monkey_hair3_188
+  - first:
+      213: 8700946266798660886
+    second: monkey_hair3_189
+  - first:
+      213: -8501693988084421425
+    second: monkey_hair3_190
+  - first:
+      213: 7428559263834405882
+    second: monkey_hair3_191
+  - first:
+      213: 4147610672730102530
+    second: monkey_hair3_192
+  - first:
+      213: 5240727225843733722
+    second: monkey_hair3_193
+  - first:
+      213: -2272486043493512647
+    second: monkey_hair3_194
+  - first:
+      213: -5676004846213550275
+    second: monkey_hair3_195
+  - first:
+      213: 933436339411526843
+    second: monkey_hair3_196
+  - first:
+      213: -1819571711067165318
+    second: monkey_hair3_197
+  - first:
+      213: -2784579935047595287
+    second: monkey_hair3_198
+  - first:
+      213: 2230060963086462240
+    second: monkey_hair3_199
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 192
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monkey_hair3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bcdc022bc4d6e00800000000000000
+      internalID: 1039571416930700187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674fdd8a398668350800000000000000
+      internalID: 6018612935429846134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aa7ced813c13d90800000000000000
+      internalID: -7119695024311784888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a1fc95ca8698dc0800000000000000
+      internalID: -3636260134674556292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560f8d257aa9d36a0800000000000000
+      internalID: -6467843446393999259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c038f10237cc5d380800000000000000
+      internalID: -8947020289869380852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5aa628ab1e4e660800000000000000
+      internalID: 7414299077726873026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ca34667fefbc7d0800000000000000
+      internalID: -2896941596756693871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2f72770f8284530800000000000000
+      internalID: 3839363695589716715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1856
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc832644bdd7549f0800000000000000
+      internalID: -484843004173862709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8906ad817ea3f5c0800000000000000
+      internalID: -4182807826166052469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967bdd59ac30a5450800000000000000
+      internalID: 6078174815722518377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af843e449cc5b380800000000000000
+      internalID: -8956027346617069658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c953ac7bfbc79e9b0800000000000000
+      internalID: -5050368344255220324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970b64bd1480a36f0800000000000000
+      internalID: -704241312785321863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c972a360ad89b2f20800000000000000
+      internalID: 3398978405955938204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_16
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b753513bc6c13e90800000000000000
+      internalID: -7047633365849909327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_17
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7994872c731d3080800000000000000
+      internalID: -9206180639315551877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dace02a640c78d570800000000000000
+      internalID: 8491673455809326253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_19
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1664
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b1810de4d370e00800000000000000
+      internalID: 1010844050075949835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5126a0693d48eaba0800000000000000
+      internalID: -6075772802985991659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555a8047f4b6f5e00800000000000000
+      internalID: 1035664428311815509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb93f5dc13b68b80800000000000000
+      internalID: -8392823919128372226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0269e0fc4c499bec0800000000000000
+      internalID: -3550643258196584928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb846dbc314ad4f0800000000000000
+      internalID: -803257854400885794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8644248dd1cf6e0800000000000000
+      internalID: -1802532936193120063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7c8f887294b2e90800000000000000
+      internalID: -7049460357567821881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_27
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4032c9199327c040800000000000000
+      internalID: 4667738679261933646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d697685c4eb2c20800000000000000
+      internalID: 3182889098683182398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_29
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1472
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f093e9c6b7d613d20800000000000000
+      internalID: 3256504382436292879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60917e772bdcfae10800000000000000
+      internalID: 2211212108461709574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e4eba07a9237710800000000000000
+      internalID: 1689740082610589240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6be1453074c82570800000000000000
+      internalID: 8442213487714888554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30556194269bc7380800000000000000
+      internalID: -8972092525844736765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1c26af6a0cbfbc0800000000000000
+      internalID: -3748190441457925633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb85e2035728bb5d0800000000000000
+      internalID: -3045697283154880324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_36
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cc9e2a065e8d3b0800000000000000
+      internalID: -5487383942738097071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_37
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64e2a102f307b940800000000000000
+      internalID: 5311718623451210863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3700c974ce20deeb0800000000000000
+      internalID: -4689088423185874829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_39
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1280
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac61cec6df04d380800000000000000
+      internalID: -8947509144412132187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead3fb202a402ae50800000000000000
+      internalID: 6819017879669652910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e3f604f203af040800000000000000
+      internalID: 4682107742107680343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f077cbecbf35950800000000000000
+      internalID: 6436765157786324787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a494563ef7f692600800000000000000
+      internalID: 444008633339300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa396e6c863ed26e0800000000000000
+      internalID: -1860581031881043030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_45
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324a71737f6502f20800000000000000
+      internalID: 3395809738818561059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_46
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c30a9056ac64620800000000000000
+      internalID: 2758114357113011213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_47
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eed8a47f60bcc5f0800000000000000
+      internalID: -735018646423150875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27255aba542cf8f0800000000000000
+      internalID: -505489086080538837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_49
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1088
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46ce38f1be24a6c0800000000000000
+      internalID: -4133127216110320050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91e439bb775b4130800000000000000
+      internalID: 3552028920011612570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa47d7ad5fa0c1fb0800000000000000
+      internalID: -4675850262068497233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b71eb9fbbeab830800000000000000
+      internalID: 4087838819978672975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81aa79968be3db1b0800000000000000
+      internalID: -5639282196631541224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cea50f52a7e8910800000000000000
+      internalID: 1841543601005980815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_55
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2e85f92ea4678a0800000000000000
+      internalID: -6307771890889334072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_56
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5f9da92e29f7b60800000000000000
+      internalID: 7746071386058782203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_57
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fea67d86980985e0800000000000000
+      internalID: -1906983524503212302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_58
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db7ee3e22fd7d3c0800000000000000
+      internalID: -4334750775374873639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_59
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 896
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0747d38c75ed20f10800000000000000
+      internalID: 2234592833732179056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bda580213db2e80800000000000000
+      internalID: -8202230221922182359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421aec6363c515060800000000000000
+      internalID: 6940429888672145700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c577008985574550800000000000000
+      internalID: 6144974265617184196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_63
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f820e139fcdc05d0800000000000000
+      internalID: -3094855881068631823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_64
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47f98d2c20fe83d0800000000000000
+      internalID: -3202358212480600241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_65
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a950670252eabd250800000000000000
+      internalID: 5970557205491352986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_66
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d6025a2d4e601f0800000000000000
+      internalID: -1078923467344024258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey_hair3_67
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 704
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad26bb83a00bb4c80800000000000000
+      internalID: -8337376727198375206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 705dddc3c87333a4ea51af09063e074e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      monkey_hair3_0: 1039571416930700187
+      monkey_hair3_1: 6018612935429846134
+      monkey_hair3_10: -4182807826166052469
+      monkey_hair3_100: 6019168872735128709
+      monkey_hair3_101: -2941257132210731735
+      monkey_hair3_102: -4705550532664370612
+      monkey_hair3_103: 6282548948418943871
+      monkey_hair3_104: 209432915211895245
+      monkey_hair3_105: -3059505288272428643
+      monkey_hair3_106: 6793353908695919495
+      monkey_hair3_107: -7160809148722210966
+      monkey_hair3_108: 7749017935851491128
+      monkey_hair3_109: 4866238880641216340
+      monkey_hair3_11: 6078174815722518377
+      monkey_hair3_110: 3844753506522782751
+      monkey_hair3_111: 8678962408365626051
+      monkey_hair3_112: 5010284940562782762
+      monkey_hair3_113: 7791254663273950229
+      monkey_hair3_114: 6357526168963679139
+      monkey_hair3_115: -1103521280580826221
+      monkey_hair3_116: 8404272647186652399
+      monkey_hair3_117: 1544370068388365815
+      monkey_hair3_118: 2177021749549767049
+      monkey_hair3_119: 6232938368485992520
+      monkey_hair3_12: -8956027346617069658
+      monkey_hair3_120: -6839345047040265080
+      monkey_hair3_121: 5523795160901732385
+      monkey_hair3_122: 1733121687995679792
+      monkey_hair3_123: 2818893829098274059
+      monkey_hair3_124: 5884918275807992715
+      monkey_hair3_125: -2713943727798614753
+      monkey_hair3_126: -1936866819799909247
+      monkey_hair3_127: 1707352496985751346
+      monkey_hair3_128: 3379035671086475035
+      monkey_hair3_129: 1131411005474676993
+      monkey_hair3_13: -5050368344255220324
+      monkey_hair3_130: 4143115806975596330
+      monkey_hair3_131: -45813217043218083
+      monkey_hair3_132: 6871882011933979731
+      monkey_hair3_133: -2463459649803793914
+      monkey_hair3_134: 4030521931666058431
+      monkey_hair3_135: 166610206890220987
+      monkey_hair3_136: -1657611273427223036
+      monkey_hair3_137: -5940175674819559146
+      monkey_hair3_138: -9013399068137510556
+      monkey_hair3_139: -792408719778495641
+      monkey_hair3_14: -704241312785321863
+      monkey_hair3_140: 4365896223850532238
+      monkey_hair3_141: 4391564313493833107
+      monkey_hair3_142: 2611171703426961284
+      monkey_hair3_143: -3886615458821135988
+      monkey_hair3_144: -601182503514388104
+      monkey_hair3_145: -3479134569452094951
+      monkey_hair3_146: 4241853876523791978
+      monkey_hair3_147: -6579710194268144280
+      monkey_hair3_148: 3472536204613497135
+      monkey_hair3_149: 505134598696383862
+      monkey_hair3_15: 3398978405955938204
+      monkey_hair3_150: 5322109246998579276
+      monkey_hair3_151: 7328052208616826429
+      monkey_hair3_152: -9213444257147566925
+      monkey_hair3_153: 4320766152722929509
+      monkey_hair3_154: -577757776625130848
+      monkey_hair3_155: 7725119835046321475
+      monkey_hair3_156: 8195006154003884413
+      monkey_hair3_157: -4367986196123274390
+      monkey_hair3_158: 4821102459099851049
+      monkey_hair3_159: 3384762044371894132
+      monkey_hair3_16: -7047633365849909327
+      monkey_hair3_160: -4496929123243991177
+      monkey_hair3_161: -4570113403053559544
+      monkey_hair3_162: 1672367752534840405
+      monkey_hair3_163: 4948563453418282953
+      monkey_hair3_164: -598431969049885470
+      monkey_hair3_165: 8091208211138339741
+      monkey_hair3_166: -1787994729362145193
+      monkey_hair3_167: 3798174245122273565
+      monkey_hair3_168: -956573359505975334
+      monkey_hair3_169: -365597815310204815
+      monkey_hair3_17: -9206180639315551877
+      monkey_hair3_170: 3698491075329229625
+      monkey_hair3_171: -6867395029163533738
+      monkey_hair3_172: 5614808152476264777
+      monkey_hair3_173: 2896379554029755998
+      monkey_hair3_174: -1976112817416666052
+      monkey_hair3_175: 6632133233272656539
+      monkey_hair3_176: 8979328399099753230
+      monkey_hair3_177: -5401989725454024929
+      monkey_hair3_178: -8569558901404891646
+      monkey_hair3_179: -3573299316744566000
+      monkey_hair3_18: 8491673455809326253
+      monkey_hair3_180: -1061297642855594934
+      monkey_hair3_181: 964015563747955167
+      monkey_hair3_182: 1138434135683044001
+      monkey_hair3_183: 8998248635637623138
+      monkey_hair3_184: -8740848993556767492
+      monkey_hair3_185: 4556250191022386955
+      monkey_hair3_186: 7650574521414701811
+      monkey_hair3_187: 6629198983251998171
+      monkey_hair3_188: -4935751176677123214
+      monkey_hair3_189: 8700946266798660886
+      monkey_hair3_19: 1010844050075949835
+      monkey_hair3_190: -8501693988084421425
+      monkey_hair3_191: 7428559263834405882
+      monkey_hair3_192: 4147610672730102530
+      monkey_hair3_193: 5240727225843733722
+      monkey_hair3_194: -2272486043493512647
+      monkey_hair3_195: -5676004846213550275
+      monkey_hair3_196: 933436339411526843
+      monkey_hair3_197: -1819571711067165318
+      monkey_hair3_198: -2784579935047595287
+      monkey_hair3_199: 2230060963086462240
+      monkey_hair3_2: -7119695024311784888
+      monkey_hair3_20: -6075772802985991659
+      monkey_hair3_21: 1035664428311815509
+      monkey_hair3_22: -8392823919128372226
+      monkey_hair3_23: -3550643258196584928
+      monkey_hair3_24: -803257854400885794
+      monkey_hair3_25: -1802532936193120063
+      monkey_hair3_26: -7049460357567821881
+      monkey_hair3_27: 4667738679261933646
+      monkey_hair3_28: 3182889098683182398
+      monkey_hair3_29: 3256504382436292879
+      monkey_hair3_3: -3636260134674556292
+      monkey_hair3_30: 2211212108461709574
+      monkey_hair3_31: 1689740082610589240
+      monkey_hair3_32: 8442213487714888554
+      monkey_hair3_33: -8972092525844736765
+      monkey_hair3_34: -3748190441457925633
+      monkey_hair3_35: -3045697283154880324
+      monkey_hair3_36: -5487383942738097071
+      monkey_hair3_37: 5311718623451210863
+      monkey_hair3_38: -4689088423185874829
+      monkey_hair3_39: -8947509144412132187
+      monkey_hair3_4: -6467843446393999259
+      monkey_hair3_40: 6819017879669652910
+      monkey_hair3_41: 4682107742107680343
+      monkey_hair3_42: 6436765157786324787
+      monkey_hair3_43: 444008633339300170
+      monkey_hair3_44: -1860581031881043030
+      monkey_hair3_45: 3395809738818561059
+      monkey_hair3_46: 2758114357113011213
+      monkey_hair3_47: -735018646423150875
+      monkey_hair3_48: -505489086080538837
+      monkey_hair3_49: -4133127216110320050
+      monkey_hair3_5: -8947020289869380852
+      monkey_hair3_50: 3552028920011612570
+      monkey_hair3_51: -4675850262068497233
+      monkey_hair3_52: 4087838819978672975
+      monkey_hair3_53: -5639282196631541224
+      monkey_hair3_54: 1841543601005980815
+      monkey_hair3_55: -6307771890889334072
+      monkey_hair3_56: 7746071386058782203
+      monkey_hair3_57: -1906983524503212302
+      monkey_hair3_58: -4334750775374873639
+      monkey_hair3_59: 2234592833732179056
+      monkey_hair3_6: 7414299077726873026
+      monkey_hair3_60: -8202230221922182359
+      monkey_hair3_61: 6940429888672145700
+      monkey_hair3_62: 6144974265617184196
+      monkey_hair3_63: -3094855881068631823
+      monkey_hair3_64: -3202358212480600241
+      monkey_hair3_65: 5970557205491352986
+      monkey_hair3_66: -1078923467344024258
+      monkey_hair3_67: -8337376727198375206
+      monkey_hair3_68: 7318577541222234832
+      monkey_hair3_69: 7841894857087359944
+      monkey_hair3_7: -2896941596756693871
+      monkey_hair3_70: 3314515192260084590
+      monkey_hair3_71: -5076248387766227122
+      monkey_hair3_72: 7226810887392033853
+      monkey_hair3_73: -2227980378672601174
+      monkey_hair3_74: -5497324400605519527
+      monkey_hair3_75: -5880547002258227890
+      monkey_hair3_76: 719883315835055252
+      monkey_hair3_77: -4978608871933686096
+      monkey_hair3_78: -7448630044232444104
+      monkey_hair3_79: -3125328643325772643
+      monkey_hair3_8: 3839363695589716715
+      monkey_hair3_80: -8652500502726043750
+      monkey_hair3_81: 5195092073517432726
+      monkey_hair3_82: 4242328923425256565
+      monkey_hair3_83: -7243088245548003366
+      monkey_hair3_84: -5984860849793923774
+      monkey_hair3_85: -5434606466897726855
+      monkey_hair3_86: -4756667755991460904
+      monkey_hair3_87: 6675138328103920017
+      monkey_hair3_88: -4164762815192761772
+      monkey_hair3_89: -4537776123332738727
+      monkey_hair3_9: -484843004173862709
+      monkey_hair3_90: -6977717528718747886
+      monkey_hair3_91: -7134557234630909561
+      monkey_hair3_92: -1633296041308643150
+      monkey_hair3_93: 5463326941815184957
+      monkey_hair3_94: -5160111799763923605
+      monkey_hair3_95: -686093873877472310
+      monkey_hair3_96: -1223070163346054981
+      monkey_hair3_97: -1967055538631713382
+      monkey_hair3_98: -3805993119659899619
+      monkey_hair3_99: -1032324636020564418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

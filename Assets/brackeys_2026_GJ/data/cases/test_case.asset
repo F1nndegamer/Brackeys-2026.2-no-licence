@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6795004cd4a10b84d99d33b21b3825a3, type: 3}
+  m_Name: test_case
+  m_EditorClassIdentifier: Assembly-CSharp::CaseDefinition
+  caseTitle: FIND BANANA THIEF
+  objectiveText: Work out which monkey stole the Golden Banana during the camera blackout.
+  durationSeconds: 60
+  reviewTokenCount: 1
+  crime:
+    itemName: Golden Banana
+    crimeVerb: was stolen
+    roomRole: Storage
+    blackoutStartTime: 38
+    crimeTime: 40
+    blackoutEndTime: 42
+    culpritActorId: "03"
+  actorSchedules:
+  - actorId: 01
+    displayName: Monkey 01
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    displayColor: {r: 0.95, g: 0.35, b: 0.35, a: 1}
+    movementSpeed: 2
+    steps:
+    - startTime: 0
+      roomRole: Security
+    - startTime: 12
+      roomRole: Archives
+    - startTime: 30
+      roomRole: Laboratory
+    - startTime: 47
+      roomRole: Security
+  - actorId: 02
+    displayName: Monkey 02
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    displayColor: {r: 0.35, g: 0.65, b: 0.95, a: 1}
+    movementSpeed: 2
+    steps:
+    - startTime: 0
+      roomRole: Archives
+    - startTime: 14
+      roomRole: Storage
+    - startTime: 33
+      roomRole: Archives
+    - startTime: 48
+      roomRole: Laboratory
+  - actorId: 03
+    displayName: Monkey 03
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    displayColor: {r: 0.95, g: 0.8, b: 0.3, a: 1}
+    movementSpeed: 2
+    steps:
+    - startTime: 0
+      roomRole: Security
+    - startTime: 15
+      roomRole: Storage
+    - startTime: 45
+      roomRole: Archives
+  - actorId: 04
+    displayName: Monkey 04
+    actorPrefab: {fileID: 748199334300501211, guid: b4b8b4ce8dfe4f0b9b2bc2a563dc9150, type: 3}
+    displayColor: {r: 0.55, g: 0.85, b: 0.4, a: 1}
+    movementSpeed: 2
+    steps:
+    - startTime: 0
+      roomRole: Laboratory
+    - startTime: 16
+      roomRole: Security
+    - startTime: 32
+      roomRole: Laboratory
+    - startTime: 50
+      roomRole: Storage
+  statements:
+  - statementId: monkey_01_lab
+    speakerActorId: "01"
+    text: I was in the Laboratory when the cameras went dark.
+    isCulpritLie: 0
+  - statementId: monkey_02_archives
+    speakerActorId: "02"
+    text: I was in the Archives during the blackout.
+    isCulpritLie: 0
+  - statementId: monkey_03_security
+    speakerActorId: "03"
+    text: I stayed in Security during the blackout.
+    isCulpritLie: 1
+  - statementId: monkey_04_lab
+    speakerActorId: "04"
+    text: I was in the Laboratory when the signal returned.
+    isCulpritLie: 0
+  evidence:
+  - evidenceId: storage_before_blackout
+    text: Storage camera, 00:36. Monkey 03 is still in Storage shortly before the blackout.
+    roomRole: Storage
+    time: 36
+    disprovesStatementId: monkey_03_security
+    reviewTokenCost: 1
+    unlockedAtStart: 0
